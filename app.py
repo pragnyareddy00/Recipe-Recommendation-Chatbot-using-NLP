@@ -5,7 +5,6 @@ import pandas as pd
 import pickle
 import re
 import random
-from nltk.corpus import stopwords
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 
@@ -35,6 +34,8 @@ try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
     nltk.download('stopwords')
+
+from nltk.corpus import stopwords
 
 def clean_text(text):
     if not isinstance(text, str): return ""

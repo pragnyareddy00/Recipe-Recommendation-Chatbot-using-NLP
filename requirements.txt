@@ -1,3 +1,4 @@
 streamlit>=1.12
 pandas
 scikit-learn
+nltk
