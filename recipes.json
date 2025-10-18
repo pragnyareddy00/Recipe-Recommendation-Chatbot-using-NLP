@@ -1,0 +1,2466 @@
+[
+  {
+    "RecipeName": "Butter Chicken (Murgh Makhani)",
+    "Ingredients": [
+      "500g boneless chicken, cubed",
+      "1 cup tomato puree",
+      "1/2 cup heavy cream",
+      "1/4 cup butter",
+      "1 onion, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "1 tbsp kasuri methi (dried fenugreek leaves)",
+      "Salt to taste",
+      "Marinade: 1/2 cup yogurt, 1 tsp ginger-garlic paste, 1/2 tsp red chili powder, Salt"
+    ],
+    "Steps": [
+      "Marinate chicken with marinade ingredients for at least 30 minutes.",
+      "Grill or pan-fry the chicken until cooked. Set aside.",
+      "Heat butter in a pan. Add chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, red chili powder, and salt. Cook until the oil separates.",
+      "Blend the sauce until smooth (optional, for restaurant-style).",
+      "Return sauce to pan, add cooked chicken, garam masala, and kasuri methi.",
+      "Simmer for 5-7 minutes.",
+      "Stir in the heavy cream. Cook for 2 more minutes and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Chicken Tikka Masala",
+    "Ingredients": [
+      "500g boneless chicken (from Butter Chicken marinade)",
+      "1 large onion, chopped",
+      "1 bell pepper, chopped (optional)",
+      "1 cup tomato puree",
+      "1/2 cup heavy cream",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp cumin powder",
+      "1 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Marinate and cook chicken tikka as in the Butter Chicken recipe.",
+      "Heat oil in a separate pan. Sauté onions and bell peppers until soft.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, turmeric, coriander, cumin, and salt. Cook until gravy thickens.",
+      "Add the cooked chicken tikka pieces to the gravy.",
+      "Stir in garam masala and heavy cream.",
+      "Simmer for 5-10 minutes and serve."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Chana Masala",
+    "Ingredients": [
+      "2 cups boiled chickpeas (canned or pressure-cooked)",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp chana masala powder",
+      "1/2 tsp red chili powder",
+      "2 tbsp vegetable oil",
+      "Salt to taste",
+      "Cilantro for garnish"
+    ],
+    "Steps": [
+      "Heat oil in a pan. Add cumin seeds and let them splutter.",
+      "Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, turmeric, coriander powder, chili powder, and chana masala powder.",
+      "Cook the masala until oil separates.",
+      "Add the boiled chickpeas and 1 cup of water (or the water chickpeas were boiled in).",
+      "Add salt, mix well, and bring to a simmer.",
+      "Cover and cook for 10-15 minutes on low heat.",
+      "Garnish with fresh cilantro."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Palak Paneer",
+    "Ingredients": [
+      "250g paneer (Indian cottage cheese), cubed",
+      "1 large bunch spinach (palak), blanched and pureed",
+      "1 onion, finely chopped",
+      "1 tomato, finely chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp cream (optional)",
+      "2 tbsp oil or ghee",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Blanch spinach in hot water for 2-3 minutes, then transfer to cold water. Drain and blend to a smooth puree.",
+      "Heat oil/ghee in a pan. Add cumin seeds.",
+      "Add chopped onion and sauté until translucent.",
+      "Add ginger-garlic paste and chopped tomato. Cook until tomatoes are soft.",
+      "Add turmeric, red chili powder, and salt. Cook for 1-2 minutes.",
+      "Add the spinach puree and cook for 5-7 minutes.",
+      "Add the paneer cubes and garam masala. Stir gently.",
+      "Simmer for 5 minutes. Stir in cream (if using) just before serving."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Dal Makhani",
+    "Ingredients": [
+      "1 cup whole black lentils (urad dal)",
+      "1/4 cup kidney beans (rajma)",
+      "1 onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/4 cup butter",
+      "1/4 cup heavy cream",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Soak lentils and kidney beans overnight. Pressure cook with salt until very soft (about 6-8 whistles).",
+      "Do not drain the water. Lightly mash some of the lentils.",
+      "In a separate pan, heat butter. Sauté onions until golden.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, red chili powder, and garam masala. Cook until oil separates.",
+      "Pour this tempering into the cooked lentils.",
+      "Add salt, mix well, and let it simmer on low heat for at least 30 minutes, stirring occasionally.",
+      "Stir in the heavy cream just before serving."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Aloo Gobi",
+    "Ingredients": [
+      "1 medium cauliflower, cut into florets",
+      "2 large potatoes, peeled and cubed",
+      "1 onion, sliced",
+      "1 tomato, chopped",
+      "1 tsp ginger, grated",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp red chili powder",
+      "2 tbsp vegetable oil",
+      "Salt to taste",
+      "Cilantro for garnish"
+    ],
+    "Steps": [
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add sliced onion and sauté until translucent.",
+      "Add grated ginger and chopped tomato. Cook for 2-3 minutes.",
+      "Add turmeric, coriander powder, and chili powder. Stir for 30 seconds.",
+      "Add the potato cubes and cauliflower florets. Add salt and mix well to coat with spices.",
+      "Cover and cook on low-medium heat for 15-20 minutes, stirring occasionally, until vegetables are tender.",
+      "Garnish with cilantro and serve."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Paneer Butter Masala",
+    "Ingredients": [
+      "250g paneer, cubed",
+      "2 large tomatoes, pureed",
+      "1 onion, chopped",
+      "1/4 cup cashews, soaked in warm water",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1/4 cup heavy cream",
+      "2 tbsp butter",
+      "1 tbsp kasuri methi",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Make a paste of the soaked cashews.",
+      "Heat butter in a pan. Sauté onions until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, chili powder, turmeric, and salt. Cook until oil separates.",
+      "Add the cashew paste and cook for another 3-4 minutes, stirring constantly.",
+      "Add 1 cup of water and bring to a simmer. Let the gravy cook for 5 minutes.",
+      "Add the paneer cubes, garam masala, and kasuri methi.",
+      "Simmer for 5 minutes. Stir in the heavy cream and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Samosa",
+    "Ingredients": [
+      "Dough: 1 cup all-purpose flour, 2 tbsp ghee, 1/4 tsp ajwain (carom seeds), Salt, Water",
+      "Filling: 2 large potatoes (boiled, peeled, and mashed), 1/2 cup green peas (boiled), 1 tsp grated ginger, 1 green chili (chopped), 1/2 tsp cumin seeds, 1 tsp coriander powder, 1/2 tsp garam masala, Salt, Oil for deep frying"
+    ],
+    "Steps": [
+      "For dough: Mix flour, salt, ajwain, and ghee. Rub until it resembles breadcrumbs. Add water slowly to form a stiff dough. Cover and rest for 30 minutes.",
+      "For filling: Heat 1 tbsp oil. Add cumin seeds, ginger, and green chili. Sauté for 30 seconds.",
+      "Add coriander powder, garam masala, and boiled peas. Cook for 1 minute.",
+      "Add mashed potatoes and salt. Mix well and cook for 2-3 minutes. Let it cool.",
+      "Make small balls from the dough. Roll into an oval shape. Cut in half.",
+      "Take one half, form a cone, and stuff it with the potato filling. Seal the edges using water.",
+      "Heat oil in a pan on medium-low heat. Deep fry the samosas until golden brown and crisp."
+    ],
+    "Cuisine": "Indian Snack"
+  },
+  {
+    "RecipeName": "Naan",
+    "Ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 cup warm milk",
+      "1/4 cup plain yogurt",
+      "1 tsp active dry yeast",
+      "1 tsp sugar",
+      "1/2 tsp salt",
+      "2 tbsp melted butter",
+      "Nigella seeds (kalonji) and cilantro for topping"
+    ],
+    "Steps": [
+      "Dissolve sugar and yeast in warm milk. Let it sit for 10 minutes until frothy.",
+      "In a large bowl, mix flour and salt. Make a well in the center.",
+      "Pour in the yeast-milk mixture, yogurt, and 1 tbsp of melted butter.",
+      "Knead into a soft, smooth dough. Cover and let it rise in a warm place for 1-2 hours.",
+      "Knead the dough again. Divide into equal-sized balls.",
+      "Roll each ball into a teardrop shape. Sprinkle with nigella seeds and cilantro, pressing them in.",
+      "Heat a cast-iron skillet (tava) over high heat.",
+      "Place the naan on the hot tava. When bubbles appear, flip it.",
+      "Cook the other side directly over the flame (using tongs) until charred spots appear.",
+      "Brush with the remaining melted butter and serve hot."
+    ],
+    "Cuisine": "Indian Bread"
+  },
+  {
+    "RecipeName": "Tandoori Chicken",
+    "Ingredients": [
+      "1 whole chicken, skin removed and cut into 4 pieces",
+      "Marinade 1: 1 tbsp lime juice, 1 tsp red chili powder, Salt",
+      "Marinade 2: 1 cup thick yogurt, 2 tbsp ginger-garlic paste, 1 tsp garam masala, 1 tsp coriander powder, 1 tsp cumin powder, 1/2 tsp turmeric, 1 tbsp kasuri methi, 2 tbsp vegetable oil"
+    ],
+    "Steps": [
+      "Make deep gashes in the chicken pieces.",
+      "Apply the first marinade (lime juice, chili powder, salt) and let it rest for 15 minutes.",
+      "In a bowl, mix all ingredients for the second marinade.",
+      "Coat the chicken pieces thoroughly with the second marinade. Refrigerate for at least 4 hours, or overnight.",
+      "Preheat oven to 220°C (425°F).",
+      "Place chicken on a baking rack over a tray.",
+      "Bake for 20-25 minutes, then flip and bake for another 10-15 minutes, or until cooked through and charred.",
+      "Baste with oil or butter halfway through. Serve with onion rings and lemon wedges."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Chicken Biryani",
+    "Ingredients": [
+      "2 cups Basmati rice, soaked for 30 minutes",
+      "500g chicken, cut into pieces",
+      "1 cup plain yogurt",
+      "2 large onions, thinly sliced",
+      "1/2 cup fried onions",
+      "1/4 cup chopped mint leaves",
+      "1/4 cup chopped cilantro",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp biryani masala powder",
+      "Whole spices: 1 bay leaf, 2-inch cinnamon, 4 green cardamoms, 4 cloves",
+      "2 tbsp ghee",
+      "A pinch of saffron soaked in 2 tbsp warm milk",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Marinate chicken with yogurt, ginger-garlic paste, chili powder, turmeric, biryani masala, and salt for 1 hour.",
+      "Cook the soaked Basmati rice with whole spices and salt until 70% done. Drain and set aside.",
+      "In a heavy-bottomed pot, heat ghee. Add the sliced onions and sauté until golden.",
+      "Add the marinated chicken and cook for 10-15 minutes until partially cooked.",
+      "Layer the cooked rice over the chicken.",
+      "Sprinkle fried onions, mint, cilantro, and the saffron-milk over the rice.",
+      "Cover the pot tightly (dum). Cook on low heat for 20-25 minutes.",
+      "Gently fluff the rice and serve hot with raita."
+    ],
+    "Cuisine": "Mughlai / North Indian"
+  },
+  {
+    "RecipeName": "Vegetable Biryani",
+    "Ingredients": [
+      "2 cups Basmati rice, soaked for 30 minutes",
+      "2 cups mixed vegetables (carrots, peas, beans, potatoes), cubed",
+      "1 cup plain yogurt",
+      "2 large onions, thinly sliced",
+      "1/2 cup fried onions",
+      "1/4 cup chopped mint leaves",
+      "1/4 cup chopped cilantro",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp biryani masala powder",
+      "Whole spices: 1 bay leaf, 2-inch cinnamon, 4 green cardamoms, 4 cloves",
+      "2 tbsp ghee",
+      "A pinch of saffron soaked in 2 tbsp warm milk",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Marinate vegetables with yogurt, ginger-garlic paste, chili powder, biryani masala, and salt for 30 minutes.",
+      "Cook the soaked Basmati rice with whole spices and salt until 70% done. Drain and set aside.",
+      "In a heavy-bottomed pot, heat ghee. Add sliced onions and sauté until golden.",
+      "Add the marinated vegetables and cook for 10 minutes until partially cooked.",
+      "Layer the cooked rice over the vegetables.",
+      "Sprinkle fried onions, mint, cilantro, and the saffron-milk over the rice.",
+      "Cover the pot tightly (dum). Cook on low heat for 20 minutes.",
+      "Gently fluff the rice and serve hot with raita."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Rajma Masala",
+    "Ingredients": [
+      "1 cup kidney beans (rajma), soaked overnight and boiled",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1 tsp rajma masala powder",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add tomato puree, turmeric, coriander powder, chili powder, and rajma masala powder.",
+      "Cook the masala until oil separates.",
+      "Add the boiled rajma along with its cooking water.",
+      "Add salt, mix well, and bring to a simmer.",
+      "Cover and cook on low heat for 20-30 minutes, mashing a few beans to thicken the gravy.",
+      "Serve hot with rice (chawal)."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Malai Kofta",
+    "Ingredients": [
+      "Koftas: 1 cup mashed potatoes, 1/2 cup grated paneer, 2 tbsp cornflour, Salt, Chopped nuts (cashews, raisins)",
+      "Gravy: 1 onion (boiled paste), 1/2 cup tomato puree, 1/4 cup cashew paste, 1/4 cup heavy cream, 1 tsp ginger-garlic paste, 1/2 tsp garam masala, 1/2 tsp red chili powder, 2 tbsp oil, Salt"
+    ],
+    "Steps": [
+      "For koftas: Mix mashed potatoes, paneer, cornflour, and salt. Make small balls, stuffing a few nuts in the center.",
+      "Deep fry the koftas until golden brown. Keep aside.",
+      "For gravy: Heat oil. Add ginger-garlic paste.",
+      "Add the boiled onion paste and sauté for 2-3 minutes.",
+      "Add tomato puree, chili powder, and salt. Cook until oil separates.",
+      "Add the cashew paste and cook for 2 more minutes, stirring constantly.",
+      "Add 1 cup of water and garam masala. Simmer for 5 minutes.",
+      "Stir in the heavy cream.",
+      "Just before serving, gently place the koftas in the hot gravy. Do not boil after adding koftas."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Matar Paneer",
+    "Ingredients": [
+      "200g paneer, cubed",
+      "1 cup green peas (matar), boiled",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, turmeric, coriander powder, and chili powder. Cook until oil separates.",
+      "Add the boiled green peas and 1 cup of water. Bring to a simmer.",
+      "Add the paneer cubes and salt.",
+      "Cover and cook for 5-7 minutes.",
+      "Stir in the garam masala and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Rogan Josh",
+    "Ingredients": [
+      "500g mutton or lamb, cut into pieces",
+      "1/2 cup plain yogurt, whisked",
+      "1 large onion, sliced",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp fennel powder (saunf)",
+      "1 tsp dry ginger powder (sonth)",
+      "1 tbsp Kashmiri red chili powder (for color)",
+      "1/4 tsp asafoetida (hing)",
+      "Whole spices: 2 bay leaves, 2 black cardamoms, 4 green cardamoms, 1-inch cinnamon, 4 cloves",
+      "1/4 cup mustard oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat mustard oil in a pressure cooker until it smokes. Let it cool slightly.",
+      "Add asafoetida and all the whole spices. Sauté for 30 seconds.",
+      "Add sliced onions and fry until golden brown.",
+      "Add the mutton pieces and fry on high heat until browned on all sides.",
+      "Add ginger-garlic paste and cook for 1-2 minutes.",
+      "Lower the heat. Add the whisked yogurt, stirring continuously to prevent curdling.",
+      "Add Kashmiri chili powder, fennel powder, dry ginger powder, and salt. Mix well.",
+      "Add 1 cup of water. Secure the lid and pressure cook for 5-6 whistles or until the mutton is tender.",
+      "Let the pressure release naturally. Simmer for a few more minutes if the gravy is too thin."
+    ],
+    "Cuisine": "Kashmiri / North Indian"
+  },
+  {
+    "RecipeName": "Masala Dosa",
+    "Ingredients": [
+      "Dosa Batter: 1 cup parboiled rice, 1/2 cup raw rice, 1/4 cup urad dal (black lentils), 1 tsp fenugreek seeds, Salt",
+      "Potato Masala: 3 large potatoes (boiled and mashed), 1 onion (sliced), 1 tsp mustard seeds, 1 tsp chana dal, 1 tsp urad dal, 1/2 tsp turmeric, 2 green chilies (chopped), 1-inch ginger (grated), Curry leaves, 2 tbsp oil, Salt"
+    ],
+    "Steps": [
+      "For batter: Soak rices and lentils/fenugreek separately for 6 hours. Grind to a smooth paste. Mix, add salt, and ferment overnight.",
+      "For masala: Heat oil. Add mustard seeds, chana dal, and urad dal. Sauté until golden.",
+      "Add onion, green chilies, ginger, and curry leaves. Sauté until onions are soft.",
+      "Add turmeric, mashed potatoes, and salt. Mix well. Cook for 2-3 minutes.",
+      "For dosa: Heat a flat non-stick pan (tava). Pour a ladle of batter in the center and spread outwards in a circular motion to make a thin crepe.",
+      "Drizzle 1/2 tsp of oil or ghee around the edges.",
+      "When the dosa turns golden and crisp, place 2-3 tbsp of the potato masala in the center.",
+      "Fold the dosa and serve hot with sambar and chutney."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Idli",
+    "Ingredients": [
+      "1 cup urad dal (black lentils)",
+      "2 cups idli rice (or parboiled rice)",
+      "1 tsp fenugreek seeds (optional)",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Wash and soak the urad dal (with fenugreek) and idli rice in separate bowls for at least 4-6 hours.",
+      "Drain the urad dal and grind it in a wet grinder or blender, adding water sparingly, until you get a very smooth, fluffy batter.",
+      "Drain the rice and grind it to a slightly coarse texture.",
+      "Combine the ground dal and rice batter in a large bowl. Add salt and mix well with your hands.",
+      "Cover the bowl and let the batter ferment in a warm place for 8-12 hours, or until it has risen and doubled in volume.",
+      "Grease the idli plates with oil. Stir the fermented batter gently.",
+      "Pour the batter into the idli molds.",
+      "Steam in an idli cooker or a large pot with boiling water for 10-12 minutes.",
+      "Let it rest for 5 minutes before demolding. Serve hot with sambar and chutney."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Sambar",
+    "Ingredients": [
+      "1 cup toor dal (pigeon peas)",
+      "1/2 cup mixed vegetables (drumstick, carrots, brinjal, pumpkin)",
+      "1 small onion, quartered",
+      "1 tomato, chopped",
+      "1 tbsp tamarind pulp, soaked in 1/2 cup warm water",
+      "2 tbsp sambar powder",
+      "1/2 tsp turmeric powder",
+      "Tempering: 1 tsp mustard seeds, 1/2 tsp asafoetida (hing), 2 dried red chilies, 1 sprig curry leaves, 1 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Pressure cook the toor dal with turmeric and 2 cups of water until soft and mushy. Whisk it well.",
+      "In a separate pot, cook the mixed vegetables, onion, and tomato with 1 cup of water until tender.",
+      "Add the cooked dal to the vegetables.",
+      "Add the tamarind water, sambar powder, and salt. Mix well.",
+      "Let the sambar simmer for 10-15 minutes on low heat.",
+      "For tempering: Heat oil in a small pan. Add mustard seeds. When they pop, add red chilies, curry leaves, and asafoetida.",
+      "Pour the tempering over the simmering sambar. Mix and serve hot."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Coconut Chutney",
+    "Ingredients": [
+      "1 cup fresh grated coconut",
+      "1/4 cup roasted chana dal (dalia)",
+      "1-2 green chilies",
+      "1/2 inch ginger",
+      "Salt to taste",
+      "Water as needed",
+      "Tempering: 1 tsp mustard seeds, 1 tsp urad dal, 1 dried red chili, 1 sprig curry leaves, 1 tsp oil"
+    ],
+    "Steps": [
+      "In a blender, combine grated coconut, roasted chana dal, green chilies, ginger, and salt.",
+      "Add a little water at a time and grind to a smooth paste.",
+      "Transfer the chutney to a bowl.",
+      "For tempering: Heat oil in a small pan. Add mustard seeds. When they pop, add urad dal, red chili, and curry leaves.",
+      "Sauté until the urad dal turns golden.",
+      "Pour the tempering over the chutney and mix.",
+      "Serve with idli, dosa, or vada."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Vada Pav",
+    "Ingredients": [
+      "Vada: 2 large potatoes (boiled, mashed), 1 tsp mustard seeds, 1 tsp ginger-garlic-chili paste, 1/2 tsp turmeric, Curry leaves, Salt",
+      "Batter: 1 cup gram flour (besan), 1/4 tsp turmeric, Pinch of baking soda, Salt, Water",
+      "8 pav (small bread buns)",
+      "Dry garlic chutney",
+      "Green chutney",
+      "Oil for deep frying"
+    ],
+    "Steps": [
+      "For vada: Heat 1 tbsp oil. Add mustard seeds, curry leaves, and ginger-garlic-chili paste. Sauté.",
+      "Add turmeric, mashed potatoes, and salt. Mix well. Let it cool and form into round patties.",
+      "For batter: Mix besan, turmeric, baking soda, and salt. Add water to make a thick, smooth batter.",
+      "Dip the potato patties (vada) into the batter and deep fry in hot oil until golden brown.",
+      "To assemble: Slit the pav bun, leaving one side intact.",
+      "Generously spread green chutney on one side and dry garlic chutney on the other.",
+      "Place the hot vada in the center. Serve immediately."
+    ],
+    "Cuisine": "Maharashtrian / Street Food"
+  },
+  {
+    "RecipeName": "Vegetable Pakora",
+    "Ingredients": [
+      "1 large onion, thinly sliced",
+      "1 large potato, thinly sliced",
+      "1/2 cup spinach, chopped",
+      "1 cup gram flour (besan)",
+      "1/4 cup rice flour (for crispness)",
+      "1 tsp ajwain (carom seeds)",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Water (as needed)",
+      "Oil for deep frying"
+    ],
+    "Steps": [
+      "In a large bowl, combine all the vegetables (onion, potato, spinach).",
+      "Add gram flour, rice flour, ajwain, chili powder, turmeric, and salt.",
+      "Sprinkle a small amount of water (1-2 tbsp at a time) and mix. The moisture from the vegetables should be enough to bind the flour. You want a very thick, coating batter, not a liquid one.",
+      "Heat oil in a pan for deep frying.",
+      "Drop spoonfuls of the vegetable-batter mixture into the hot oil.",
+      "Fry on medium heat, turning occasionally, until golden brown and crisp.",
+      "Drain on a paper towel and serve hot with chutney or ketchup."
+    ],
+    "Cuisine": "Indian Snack"
+  },
+  {
+    "RecipeName": "Jalebi",
+    "Ingredients": [
+      "Batter: 1 cup all-purpose flour, 1 tbsp gram flour (besan), 1/2 tsp active dry yeast, 1 tsp sugar, 3/4 cup warm water",
+      "Syrup: 1 cup sugar, 1/2 cup water, 4-5 strands of saffron, 1/2 tsp cardamom powder, 1 tsp lemon juice",
+      "Ghee or oil for deep frying"
+    ],
+    "Steps": [
+      "For syrup: Boil sugar, water, and saffron until it reaches a one-string consistency. Add cardamom powder and lemon juice (to prevent crystallization). Keep it warm.",
+      "For batter: Mix flour, besan, sugar, and yeast in a bowl. Add warm water to make a smooth, thick, pancake-like batter.",
+      "Cover and let it ferment in a warm place for 1-2 hours.",
+      "Heat ghee/oil in a flat-bottomed pan on medium heat.",
+      "Fill the fermented batter into a squeeze bottle or a piping bag.",
+      "Squeeze the batter in a circular, overlapping motion directly into the hot oil to form the jalebi spirals.",
+      "Fry until golden and crisp on both sides.",
+      "Remove the jalebi from the oil, drain, and immediately soak in the warm sugar syrup for 1-2 minutes.",
+      "Remove from syrup and serve hot."
+    ],
+    "Cuisine": "Indian Dessert"
+  },
+  {
+    "RecipeName": "Gulab Jamun",
+    "Ingredients": [
+      "Jamuns: 1 cup milk powder, 1/4 cup all-purpose flour, 1/4 tsp baking soda, 1 tbsp ghee, 2-3 tbsp milk (to knead)",
+      "Syrup: 1.5 cups sugar, 1.5 cups water, 2-3 green cardamoms (crushed), A few strands of saffron",
+      "Ghee or oil for deep frying"
+    ],
+    "Steps": [
+      "For syrup: Boil sugar, water, cardamom, and saffron. Simmer for 5 minutes until the syrup is slightly sticky. Turn off heat.",
+      "For jamuns: In a bowl, mix milk powder, flour, and baking soda.",
+      "Rub in the ghee with your fingertips.",
+      "Add milk, 1 tbsp at a time, to form a soft, smooth dough. Do not knead too much.",
+      "Grease your palms and make small, smooth, crack-free balls from the dough.",
+      "Heat ghee/oil on low heat. The oil should be just hot enough, not smoking.",
+      "Add the balls to the oil. They will sink and then rise. Fry on low heat, stirring gently, until they are dark golden brown (this can take 10-15 minutes).",
+      "Drain the fried jamuns and add them directly to the warm (not hot) sugar syrup.",
+      "Let them soak for at least 1-2 hours before serving."
+    ],
+    "Cuisine": "Indian Dessert"
+  },
+  {
+    "RecipeName": "Kheer (Rice Pudding)",
+    "Ingredients": [
+      "1/4 cup Basmati rice, soaked for 30 minutes",
+      "1 liter full-fat milk",
+      "1/2 cup sugar (or to taste)",
+      "1/2 tsp cardamom powder",
+      "2 tbsp mixed nuts (almonds, pistachios), slivered",
+      "1 tbsp raisins (optional)",
+      "A few strands of saffron"
+    ],
+    "Steps": [
+      "Drain the soaked rice. Coarsely grind it or leave it whole.",
+      "In a heavy-bottomed pot, bring the milk to a boil.",
+      "Add the rice to the boiling milk. Reduce the heat to low.",
+      "Simmer, stirring frequently to prevent sticking, for 25-30 minutes, or until the rice is cooked and the milk has thickened.",
+      "Add the sugar, cardamom powder, and saffron.",
+      "Stir and cook for another 5-10 minutes, until the sugar is dissolved.",
+      "Stir in the nuts and raisins.",
+      "Serve warm or chilled."
+    ],
+    "Cuisine": "Indian Dessert"
+  },
+  {
+    "RecipeName": "Sweet Lassi",
+    "Ingredients": [
+      "2 cups plain yogurt (dahi), chilled",
+      "1/2 cup cold water or milk",
+      "4 tbsp sugar (or to taste)",
+      "1/2 tsp cardamom powder",
+      "Ice cubes (optional)"
+    ],
+    "Steps": [
+      "In a blender, combine the chilled yogurt, water/milk, sugar, and cardamom powder.",
+      "Blend for 1-2 minutes until smooth and frothy.",
+      "If it's too thick, add a little more water or milk.",
+      "Pour into glasses. Add ice cubes if desired.",
+      "Garnish with a pinch of cardamom powder or chopped pistachios.",
+      "Serve immediately."
+    ],
+    "Cuisine": "Indian Drink"
+  },
+  {
+    "RecipeName": "Mango Lassi",
+    "Ingredients": [
+      "1 cup ripe mango pulp (fresh or canned)",
+      "1 1/2 cups plain yogurt (dahi), chilled",
+      "1/2 cup cold milk or water",
+      "2-3 tbsp sugar (or to taste, depending on mango sweetness)",
+      "A pinch of cardamom powder"
+    ],
+    "Steps": [
+      "In a blender, combine the mango pulp, chilled yogurt, milk/water, sugar, and cardamom powder.",
+      "Blend until smooth and creamy.",
+      "Taste and adjust sugar if needed.",
+      "If the lassi is too thick, add a splash of milk or water and blend again.",
+      "Pour into tall glasses and serve chilled.",
+      "Garnish with a small slice of mango or mint leaf."
+    ],
+    "Cuisine": "Indian Drink"
+  },
+  {
+    "RecipeName": "Cucumber Raita",
+    "Ingredients": [
+      "1 cup plain yogurt (dahi), whisked",
+      "1/2 cup cucumber, grated",
+      "1/4 tsp roasted cumin powder",
+      "1/4 tsp black salt (kala namak) (optional)",
+      "Salt to taste",
+      "1 tbsp chopped fresh cilantro"
+    ],
+    "Steps": [
+      "Squeeze the excess water from the grated cucumber.",
+      "In a bowl, combine the whisked yogurt, grated cucumber, roasted cumin powder, black salt, and regular salt.",
+      "Mix well.",
+      "Garnish with chopped cilantro.",
+      "Chill in the refrigerator for 30 minutes before serving.",
+      "Serve as a side dish with biryani, pulao, or parathas."
+    ],
+    "Cuisine": "Indian Side Dish"
+  },
+  {
+    "RecipeName": "Baingan Bharta",
+    "Ingredients": [
+      "1 large eggplant (baingan)",
+      "1 large onion, finely chopped",
+      "2 tomatoes, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1-2 green chilies, chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste",
+      "Cilantro for garnish"
+    ],
+    "Steps": [
+      "Roast the eggplant directly over a flame (or in the oven) until the skin is charred and the flesh is soft.",
+      "Let it cool. Peel off the charred skin and mash the pulp.",
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and green chilies. Sauté for a minute.",
+      "Add chopped tomatoes, turmeric, coriander powder, and salt. Cook until tomatoes are mushy and oil separates.",
+      "Add the mashed eggplant pulp. Mix well and cook for 5-7 minutes, stirring often.",
+      "Sprinkle with garam masala and garnish with cilantro.",
+      "Serve hot with roti."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Bhindi Masala",
+    "Ingredients": [
+      "250g okra (bhindi), washed, dried, and cut",
+      "1 large onion, sliced",
+      "1 tomato, chopped",
+      "1 tsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp amchur (dry mango powder)",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat 1 tbsp of oil in a pan. Add the cut okra and sauté on medium-high heat until it's 80% cooked and no longer slimy. Remove from the pan and set aside.",
+      "In the same pan, heat the remaining 1 tbsp of oil. Add cumin seeds.",
+      "Add sliced onion and sauté until translucent.",
+      "Add ginger-garlic paste and cook for a minute.",
+      "Add chopped tomato, turmeric, coriander powder, chili powder, and salt.",
+      "Cook until the tomatoes are soft.",
+      "Add the sautéed okra back to the pan.",
+      "Stir in the amchur powder. Mix well and cook for another 3-5 minutes.",
+      "Serve hot with roti or paratha."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Dal Tadka",
+    "Ingredients": [
+      "1 cup toor dal (pigeon peas)",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tadka (Tempering): 2 tbsp ghee, 1 tsp cumin seeds, 1/2 tsp asafoetida (hing), 1 onion (finely chopped), 1 tomato (finely chopped), 1 tsp ginger-garlic paste, 1/2 tsp red chili powder, 2 dried red chilies"
+    ],
+    "Steps": [
+      "Rinse the dal. Pressure cook the dal with 3 cups of water, turmeric, and salt for 3-4 whistles until soft.",
+      "For tadka: Heat ghee in a small pan.",
+      "Add cumin seeds and asafoetida. When they splutter, add the dried red chilies.",
+      "Add the chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and chopped tomato. Cook until tomatoes are soft.",
+      "Add the red chili powder, stir for 10 seconds, and turn off the heat.",
+      "Pour this tadka over the cooked dal.",
+      "Mix well and simmer for 2 minutes. Garnish with cilantro and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Poha",
+    "Ingredients": [
+      "2 cups thick poha (flattened rice)",
+      "1 onion, finely chopped",
+      "1 potato, finely chopped (optional)",
+      "1/2 cup peanuts",
+      "1 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "2-3 green chilies, chopped",
+      "1/2 tsp turmeric powder",
+      "1 tsp sugar",
+      "1 tbsp lemon juice",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Cilantro and sev for garnish"
+    ],
+    "Steps": [
+      "Rinse the poha in a colander until it softens. Do not soak. Let it drain.",
+      "Add salt, sugar, and turmeric to the damp poha and mix gently.",
+      "Heat oil in a pan. Fry the peanuts until crisp. Remove and keep aside.",
+      "In the same oil, add mustard seeds. When they pop, add curry leaves and green chilies.",
+      "Add chopped onion and potato. Sauté until potatoes are tender.",
+      "Add the poha mixture to the pan. Stir gently to combine everything.",
+      "Cover and cook on low heat for 2-3 minutes.",
+      "Turn off the heat. Add lemon juice, fried peanuts, and chopped cilantro. Mix well.",
+      "Garnish with sev and serve hot."
+    ],
+    "Cuisine": "Maharashtrian / Indian Breakfast"
+  },
+  {
+    "RecipeName": "Upma",
+    "Ingredients": [
+      "1 cup semolina (rava or sooji), coarse",
+      "1 onion, finely chopped",
+      "1/2 cup mixed vegetables (carrots, peas), chopped",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "1-inch ginger, grated",
+      "2 green chilies, chopped",
+      "1 sprig curry leaves",
+      "1/2 tsp turmeric (optional)",
+      "2.5 cups hot water",
+      "2 tbsp oil or ghee",
+      "Salt to taste",
+      "1 tbsp lemon juice"
+    ],
+    "Steps": [
+      "Dry roast the semolina in a pan on low heat until it turns aromatic. Remove and keep aside.",
+      "Heat oil/ghee in the same pan. Add mustard seeds, urad dal, and chana dal. Sauté until dals are golden.",
+      "Add ginger, green chilies, and curry leaves. Sauté for 30 seconds.",
+      "Add chopped onion and sauté until translucent.",
+      "Add the mixed vegetables and cook for 2-3 minutes.",
+      "Add the hot water, salt, and turmeric (if using). Bring to a rolling boil.",
+      "Slowly add the roasted semolina, stirring continuously with your other hand to prevent lumps.",
+      "Keep stirring until the semolina absorbs all the water and thickens.",
+      "Cover and cook on low heat for 3-5 minutes.",
+      "Turn off the heat. Add lemon juice and 1 tsp of ghee (optional). Fluff with a fork and serve hot."
+    ],
+    "Cuisine": "South Indian / Indian Breakfast"
+  },
+  {
+    "RecipeName": "Uttapam",
+    "Ingredients": [
+      "2 cups idli or dosa batter",
+      "1 large onion, finely chopped",
+      "1 large tomato, finely chopped",
+      "2 green chilies, finely chopped",
+      "1/4 cup chopped cilantro",
+      "Oil or ghee for cooking"
+    ],
+    "Steps": [
+      "In a bowl, mix the chopped onion, tomato, green chilies, and cilantro. Add a pinch of salt.",
+      "Heat a flat non-stick pan (tava) over medium heat. Grease lightly with oil.",
+      "Pour a large ladle of the batter onto the pan. Do not spread it thin; it should be thick like a pancake.",
+      "Sprinkle a generous amount of the onion-tomato topping mixture over the uttapam.",
+      "Gently press the toppings into the batter with a spatula.",
+      "Drizzle 1 tsp of oil around the edges and a little on top.",
+      "Cover and cook for 2-3 minutes on low-medium heat, until the bottom is golden.",
+      "Flip the uttapam carefully. Cook the other side (topping side) for 1-2 minutes.",
+      "Flip again, cook for 30 seconds, and serve hot with sambar and chutney."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Medu Vada",
+    "Ingredients": [
+      "1 cup urad dal (black lentils), whole, skinned",
+      "1-2 green chilies, finely chopped",
+      "1/2 inch ginger, finely chopped",
+      "10-15 curry leaves, chopped",
+      "1/4 cup finely chopped onion (optional)",
+      "1/4 cup finely chopped fresh coconut (optional)",
+      "1/2 tsp whole black peppercorns, crushed",
+      "Salt to taste",
+      "Oil for deep frying"
+    ],
+    "Steps": [
+      "Wash and soak the urad dal for at least 3-4 hours.",
+      "Drain the water completely. Grind the dal in a blender or wet grinder, adding water 1 tsp at a time, to make a thick, fluffy, and smooth batter.",
+      "Transfer the batter to a bowl. Add green chilies, ginger, curry leaves, onion, coconut (if using), crushed pepper, and salt.",
+      "Beat the batter with your hand for 2-3 minutes to aerate it.",
+      "Heat oil in a pan for deep frying.",
+      "Wet your palms. Take a small portion of the batter on your palm, flatten it, and make a hole in the center with your thumb.",
+      "Gently slide the vada into the hot oil.",
+      "Fry on medium heat, turning occasionally, until golden brown and crisp on the outside and cooked on the inside.",
+      "Drain on a paper towel and serve hot with sambar and coconut chutney."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Pav Bhaji",
+    "Ingredients": [
+      "Bhaji: 2 large potatoes, 1 cup cauliflower, 1/2 cup green peas, 1/2 cup carrots (all boiled and mashed)",
+      "1 large onion (finely chopped), 1 capsicum (finely chopped), 2 large tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "2-3 tbsp pav bhaji masala",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "4 tbsp butter",
+      "Salt to taste",
+      "8 pav (bread buns)"
+    ],
+    "Steps": [
+      "Heat 2 tbsp of butter in a large pan. Add chopped onion and sauté until translucent.",
+      "Add chopped capsicum and ginger-garlic paste. Sauté for 2 minutes.",
+      "Add tomato puree, chili powder, turmeric, and pav bhaji masala. Cook until oil separates.",
+      "Add the boiled and mashed vegetables. Mix well.",
+      "Add 1 cup of water and salt. Use a potato masher to mash the mixture directly in the pan.",
+      "Simmer for 10-15 minutes, mashing occasionally, until the bhaji is thick and well-combined.",
+      "Add 1 tbsp of butter and chopped cilantro. Mix well.",
+      "To serve: Slit the pav buns. Heat 1 tbsp of butter on a tava, add a pinch of pav bhaji masala, and toast the buns until lightly browned.",
+      "Serve the hot bhaji with the toasted pav, chopped onions, and a lemon wedge."
+    ],
+    "Cuisine": "Maharashtrian / Street Food"
+  },
+  {
+    "RecipeName": "Chole Bhature",
+    "Ingredients": [
+      "Chole: (Use Chana Masala recipe)",
+      "Bhature: 2 cups all-purpose flour, 1/2 cup semolina (sooji), 1/2 cup yogurt, 1/2 tsp baking soda, 1 tsp sugar, Salt to taste, Water to knead, Oil for deep frying"
+    ],
+    "Steps": [
+      "Prepare the Chole (Chana Masala) as per the recipe provided earlier.",
+      "For bhature: In a bowl, mix flour, semolina, yogurt, baking soda, sugar, and salt.",
+      "Add water slowly to knead a soft, pliable dough. Apply 1 tsp of oil and knead again.",
+      "Cover the dough and let it rest in a warm place for at least 2 hours.",
+      "Knead the dough again. Divide into equal-sized balls.",
+      "Roll each ball into an oval or round shape.",
+      "Heat oil in a pan on high heat.",
+      "Carefully slide the rolled bhatura into the hot oil. Press it down gently with a spatula to help it puff up.",
+      "Fry until golden brown on both sides.",
+      "Drain on a paper towel and serve immediately with the hot chole."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Gajar Ka Halwa",
+    "Ingredients": [
+      "1 kg red carrots, grated",
+      "1 liter full-fat milk",
+      "3/4 cup sugar (or to taste)",
+      "1/2 cup ghee (clarified butter)",
+      "1/2 tsp cardamom powder",
+      "1/4 cup mixed nuts (cashews, almonds, pistachios), chopped",
+      "1/4 cup khoya (mawa) (optional, for richness)"
+    ],
+    "Steps": [
+      "In a large, heavy-bottomed pan, combine the grated carrots and milk. Bring to a boil.",
+      "Cook on medium heat, stirring frequently, until all the milk has evaporated (this can take 45-60 minutes).",
+      "Add the ghee to the pan. Sauté the carrot mixture for 10-15 minutes, until the color darkens and the ghee starts to separate.",
+      "Add the sugar and mix well. The sugar will melt and the mixture will become moist again.",
+      "Continue to cook, stirring, until the moisture from the sugar evaporates.",
+      "Add the cardamom powder, chopped nuts, and crumbled khoya (if using).",
+      "Stir well and cook for another 5 minutes.",
+      "Serve hot."
+    ],
+    "Cuisine": "North Indian Dessert"
+  },
+  {
+    "RecipeName": "Rasgulla",
+    "Ingredients": [
+      "1 liter full-fat milk",
+      "2 tbsp lemon juice (mixed with 2 tbsp water)",
+      "1.5 cups sugar",
+      "4 cups water",
+      "1 tsp rose water (optional)",
+      "1 tsp cornflour or all-purpose flour (optional, for binding)"
+    ],
+    "Steps": [
+      "Bring the milk to a rolling boil. Turn off the heat.",
+      "Add the lemon juice mixture slowly, stirring gently, until the milk curdles and separates from the greenish whey.",
+      "Strain the curdled milk through a muslin cloth. Rinse the 'chena' (curdled milk solids) under cold water to remove the lemon taste.",
+      "Squeeze the muslin cloth to drain all the whey. Hang it for 30 minutes.",
+      "Transfer the chena to a plate. Knead it with the heel of your palm for 8-10 minutes until it becomes smooth and releases some fat. Mix in cornflour if using.",
+      "Make small, smooth, crack-free balls from the chena.",
+      "In a large, wide pressure cooker or pot, combine sugar and 4 cups of water. Bring to a boil, stirring to dissolve the sugar.",
+      "Carefully add the chena balls to the boiling syrup.",
+      "If using a pressure cooker, close the lid and cook for 1 whistle, then reduce heat and simmer for 5-7 minutes. If using an open pot, cover and boil for 15-20 minutes.",
+      "Turn off the heat. Let the pressure release naturally. The rasgullas will have doubled in size.",
+      "Add rose water. Chill the rasgullas in the syrup for 4-6 hours before serving."
+    ],
+    "Cuisine": "Bengali / Indian Dessert"
+  },
+  {
+    "RecipeName": "Dhokla",
+    "Ingredients": [
+      "Batter: 1 cup gram flour (besan), 1/2 cup semolina (sooji), 1/2 cup yogurt, 1/2 inch ginger (grated), 1 green chili (paste), 1/2 tsp turmeric, Salt, 1 tsp Eno fruit salt (or baking soda)",
+      "Tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 sprig curry leaves, 2-3 green chilies (slit), 1 tbsp sugar, 2 tbsp water, 1 tbsp lemon juice"
+    ],
+    "Steps": [
+      "In a bowl, mix besan, sooji, yogurt, ginger-chili paste, turmeric, and salt. Add water to make a thick, idli-like batter. Let it rest for 20 minutes.",
+      "Grease a steaming pan. Boil water in a steamer.",
+      "Just before steaming, add the Eno fruit salt to the batter and stir quickly until it's light and frothy. Pour immediately into the greased pan.",
+      "Steam for 15-20 minutes, or until a toothpick inserted comes out clean.",
+      "Let it cool for 10 minutes, then cut into squares.",
+      "For tempering: Heat oil. Add mustard seeds, curry leaves, and green chilies.",
+      "Add water, sugar, and lemon juice. Bring to a boil and turn off the heat.",
+      "Pour this tempering evenly over the dhokla squares. Garnish with cilantro and grated coconut."
+    ],
+    "Cuisine": "Gujarati / Indian Snack"
+  },
+  {
+    "RecipeName": "Kadai Paneer",
+    "Ingredients": [
+      "250g paneer, cubed",
+      "1 large onion, cubed",
+      "1 large capsicum (bell pepper), cubed",
+      "2 tomatoes, pureed",
+      "1 onion, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tbsp whole coriander seeds",
+      "1 tsp cumin seeds",
+      "2-3 dried red chilies",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Dry roast the coriander seeds, cumin seeds, and dried red chilies. Coarsely grind them to make the kadai masala.",
+      "Heat 1 tbsp oil in a pan (kadai). Sauté the cubed onion and capsicum on high heat for 2-3 minutes until lightly charred. Remove and set aside.",
+      "In the same pan, heat 1 tbsp oil. Add the finely chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add the tomato puree, turmeric, and salt. Cook until oil separates.",
+      "Add the freshly ground kadai masala and garam masala. Cook for 1-2 minutes.",
+      "Add the paneer cubes, sautéed onion, and capsicum. Stir gently to coat.",
+      "Add 1/4 cup of water, cover, and simmer for 5 minutes.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Chicken Vindaloo",
+    "Ingredients": [
+      "500g chicken, cut into pieces",
+      "2 large potatoes, peeled and quartered (optional, but traditional)",
+      "1/4 cup white vinegar",
+      "Vindaloo Paste: 6-8 dried Kashmiri red chilies (less spicy), 4-5 cloves garlic, 1-inch ginger, 1 tsp cumin seeds, 1/2 tsp black peppercorns, 1/2-inch cinnamon, 3 cloves",
+      "1 large onion, finely chopped",
+      "1 tomato, pureed",
+      "1/2 tsp turmeric powder",
+      "1 tsp sugar (to balance)",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Grind all ingredients for the 'Vindaloo Paste' with the vinegar to a smooth paste.",
+      "Marinate the chicken pieces in this paste for at least 1 hour.",
+      "Heat oil in a pan. Add the chopped onion and sauté until golden brown.",
+      "Add the tomato puree and turmeric. Cook for 3-4 minutes.",
+      "Add the marinated chicken and the quartered potatoes.",
+      "Sauté on high heat for 5-7 minutes, until the chicken is seared.",
+      "Add 1 cup of water, salt, and sugar. Bring to a boil.",
+      "Cover, reduce heat, and simmer for 20-25 minutes, or until the chicken and potatoes are cooked through.",
+      "The gravy should be thick. Serve hot."
+    ],
+    "Cuisine": "Goan / Indian"
+  },
+  {
+    "RecipeName": "Vegetable Korma",
+    "Ingredients": [
+      "2 cups mixed vegetables (carrots, peas, beans, potatoes)",
+      "1 onion, finely chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "Gravy Paste: 1/4 cup cashews, 1/4 cup grated coconut, 1 tsp poppy seeds (optional), 1/2-inch cinnamon, 2 green cardamoms, 2 cloves",
+      "1/4 cup plain yogurt, whisked",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Grind all ingredients for the 'Gravy Paste' with a little water to a very smooth paste.",
+      "Boil or steam the mixed vegetables until just tender. Keep aside.",
+      "Heat oil in a pan. Add the chopped onion and sauté until translucent.",
+      "Add ginger-garlic paste and chopped tomato. Cook until tomatoes are soft.",
+      "Lower the heat. Add turmeric and chili powder.",
+      "Add the ground gravy paste and sauté for 3-4 minutes, stirring constantly.",
+      "Add the whisked yogurt, stirring quickly to prevent curdling. Cook for 2-3 minutes.",
+      "Add the boiled vegetables, 1 cup of water, and salt. Bring to a simmer.",
+      "Cover and cook for 5-7 minutes.",
+      "Stir in the garam masala and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Aloo Paratha",
+    "Ingredients": [
+      "Dough: 2 cups whole wheat flour (atta), Water, Salt, 1 tbsp oil",
+      "Filling: 3 large potatoes (boiled, peeled, and mashed), 1 onion (finely chopped), 1-2 green chilies (finely chopped), 1/4 cup chopped cilantro, 1/2 tsp amchur (dry mango powder), 1/2 tsp garam masala, Salt to taste",
+      "Ghee or oil for cooking"
+    ],
+    "Steps": [
+      "For dough: Knead a soft, smooth dough from the flour, salt, oil, and water. Cover and rest for 20 minutes.",
+      "For filling: In a bowl, combine mashed potatoes, onion, green chilies, cilantro, amchur, garam masala, and salt. Mix well.",
+      "Make equal-sized balls from the dough and the filling.",
+      "Take one dough ball, flatten it, and place a filling ball in the center.",
+      "Bring the edges of the dough together to seal the filling inside. Form a smooth ball.",
+      "Dust with dry flour and gently roll it out into a 6-7 inch circle (paratha).",
+      "Heat a tava (griddle) over medium heat.",
+      "Place the paratha on the tava. Cook for 30 seconds, then flip.",
+      "Drizzle 1/2 tsp of ghee/oil on the cooked side. Flip again.",
+      "Drizzle ghee/oil on the other side. Press gently with a spatula and cook until both sides have golden brown spots.",
+      "Serve hot with yogurt, pickle, or butter."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Roti (Chapati)",
+    "Ingredients": [
+      "2 cups whole wheat flour (atta)",
+      "1 cup warm water (approximately)",
+      "1/2 tsp salt (optional)",
+      "1 tsp ghee or oil (optional, for dough)",
+      "Ghee for brushing"
+    ],
+    "Steps": [
+      "In a large bowl, combine the flour and salt. Add the 1 tsp of ghee/oil (if using).",
+      "Slowly add the warm water, a little at a time, and knead to form a soft, pliable dough. Knead for 5-7 minutes.",
+      "Cover the dough with a damp cloth and let it rest for 20-30 minutes.",
+      "Knead the dough again for 1 minute. Divide into small, equal-sized balls.",
+      "Take one ball, dust it with dry flour, and roll it into a thin, even circle (about 6-7 inches).",
+      "Heat a tava (griddle) over medium-high heat.",
+      "Place the roti on the hot tava. Cook for about 15-20 seconds, until small bubbles appear.",
+      "Flip the roti. Cook the other side for about 30 seconds.",
+      "Using tongs, lift the roti and place it directly on the open flame. It should puff up immediately.",
+      "Flip and cook the other side on the flame for a few seconds.",
+      "Remove from heat and brush with ghee.",
+      "Serve hot."
+    ],
+    "Cuisine": "Indian Bread"
+  },
+  {
+    "RecipeName": "Puri",
+    "Ingredients": [
+      "2 cups whole wheat flour (atta)",
+      "1/2 tsp ajwain (carom seeds) (optional)",
+      "1/2 tsp salt",
+      "1 tbsp oil (for the dough)",
+      "Water (to knead a stiff dough)",
+      "Oil for deep frying"
+    ],
+    "Steps": [
+      "In a bowl, mix the flour, salt, and ajwain.",
+      "Add the 1 tbsp of oil and mix.",
+      "Add water, a little at a time, to knead a stiff, firm dough (stiffer than roti dough).",
+      "Cover and let it rest for 15-20 minutes.",
+      "Knead the dough again. Divide into small, equal-sized balls.",
+      "Grease your rolling pin and rolling surface with a little oil (do not use dry flour).",
+      "Roll each ball into a small, even circle (about 4-5 inches).",
+      "Heat the oil for deep frying in a pan (kadai) over high heat.",
+      "To check if the oil is hot, drop a tiny piece of dough; it should rise to the surface immediately.",
+      "Gently slide a rolled-out puri into the hot oil. It will sink and then rise.",
+      "Gently press the center of the puri with a slotted spoon to help it puff up.",
+      "Once puffed, flip it and fry the other side until golden brown.",
+      "Remove and drain on a paper towel. Serve hot with curry or bhaji."
+    ],
+    "Cuisine": "Indian Bread"
+  },
+  {
+    "RecipeName": "Chicken 65",
+    "Ingredients": [
+      "500g boneless chicken, cut into small cubes",
+      "Batter: 1/4 cup cornflour, 2 tbsp rice flour, 1 tbsp ginger-garlic paste, 1 tsp red chili powder, 1/2 tsp turmeric, 1 egg (beaten), Salt",
+      "Tempering: 2 tbsp oil, 1 tsp mustard seeds, 10-12 curry leaves, 4-5 green chilies (slit), 1 tbsp ginger-garlic (chopped), 2 tbsp yogurt (whisked), 1 tsp red chili sauce (optional)"
+    ],
+    "Steps": [
+      "In a bowl, combine the chicken cubes with all the ingredients for the batter. Mix well to coat the chicken. Let it marinate for 30 minutes.",
+      "Deep fry the marinated chicken pieces in hot oil until golden brown and crisp. Drain and set aside.",
+      "For tempering: Heat 2 tbsp of oil in a separate pan.",
+      "Add mustard seeds. When they pop, add chopped ginger-garlic, green chilies, and curry leaves. Sauté for one minute.",
+      "Lower the heat. Add the whisked yogurt and red chili sauce. Stir quickly to prevent curdling.",
+      "Add the fried chicken pieces to the pan. Toss well to coat the chicken with the tempering.",
+      "Sauté on high heat for 1-2 minutes until dry. Serve hot as an appetizer."
+    ],
+    "Cuisine": "South Indian / Appetizer"
+  },
+  {
+    "RecipeName": "Goan Fish Curry",
+    "Ingredients": [
+      "500g firm white fish (like pomfret or kingfish), cut into steaks",
+      "Masala Paste: 1 cup grated coconut, 1 tsp coriander seeds, 1/2 tsp cumin seeds, 1/2 tsp turmeric powder, 4-5 dried Kashmiri red chilies, 1 small onion, 1-inch ginger, 4-5 cloves garlic, 1 small ball of tamarind",
+      "1 small onion, finely chopped",
+      "1 tomato, chopped",
+      "1 tbsp coconut oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Grind all the 'Masala Paste' ingredients with a little water to a very smooth, fine paste.",
+      "Rub the fish steaks with a little salt and turmeric. Set aside.",
+      "Heat coconut oil in a pan. Add the finely chopped onion and sauté until translucent.",
+      "Add the chopped tomato and cook until soft.",
+      "Add the ground masala paste and sauté for 5-7 minutes, until the raw smell disappears and oil starts to separate.",
+      "Add 1.5 cups of water and salt. Bring the curry to a boil.",
+      "Gently slide the fish steaks into the simmering curry.",
+      "Cook on medium-low heat for 8-10 minutes, or until the fish is cooked through. Do not stir too much, or the fish will break.",
+      "Serve hot with steamed rice."
+    ],
+    "Cuisine": "Goan / Coastal Indian"
+  },
+  {
+    "RecipeName": "Lemon Rice",
+    "Ingredients": [
+      "2 cups cooked rice (preferably leftover), cooled",
+      "2 tbsp lemon juice",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 tsp chana dal, 1 tsp urad dal, 2 tbsp peanuts, 2-3 green chilies (slit), 1 sprig curry leaves, 1/4 tsp asafoetida (hing)"
+    ],
+    "Steps": [
+      "In a bowl, mix the cooked rice with turmeric, salt, and 1 tbsp of oil. Separate the grains. Set aside.",
+      "Heat oil in a pan for tempering.",
+      "Add mustard seeds. When they pop, add chana dal, urad dal, and peanuts.",
+      "Sauté until the dals and peanuts are golden brown.",
+      "Add the green chilies, curry leaves, and asafoetida. Sauté for 30 seconds.",
+      "Turn off the heat. Pour this tempering over the rice.",
+      "Add the lemon juice.",
+      "Mix everything gently with a fork or your hands, ensuring you don't break the rice grains.",
+      "Garnish with cilantro and serve."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Tamarind Rice (Pulihora)",
+    "Ingredients": [
+      "2 cups cooked rice, cooled",
+      "1/4 cup thick tamarind pulp",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tempering: 3 tbsp sesame oil, 1 tsp mustard seeds, 1 tsp chana dal, 1 tsp urad dal, 2 tbsp peanuts, 3-4 dried red chilies, 1 sprig curry leaves, 1/4 tsp asafoetida (hing)"
+    ],
+    "Steps": [
+      "In a small pan, heat the tamarind pulp with turmeric and salt. Cook for 3-4 minutes until the raw smell is gone. Let it cool.",
+      "Heat sesame oil in a separate pan for tempering.",
+      "Add mustard seeds. When they pop, add chana dal, urad dal, peanuts, and dried red chilies.",
+      "Sauté until the dals and peanuts are golden.",
+      "Add curry leaves and asafoetida. Sauté for 30 seconds and turn off the heat.",
+      "In a large bowl, combine the cooled rice, the tamarind paste, and the tempering.",
+      "Mix well, preferably with your hands, to ensure the rice is evenly coated.",
+      "Let it rest for at least 30 minutes for the flavors to meld. Serve at room temperature."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Hyderabadi Chicken Biryani (Kacchi)",
+    "Ingredients": [
+      "2 cups long-grain Basmati rice, soaked 30 mins",
+      "500g chicken, large pieces",
+      "1 cup plain yogurt",
+      "2 large onions, thinly sliced and deep-fried (Birista)",
+      "1/4 cup chopped mint leaves",
+      "1/4 cup chopped cilantro",
+      "2 tbsp ginger-garlic paste",
+      "1 tbsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tbsp biryani masala",
+      "2 tbsp lemon juice",
+      "4 tbsp ghee",
+      "Whole spices: 1 bay leaf, 1 star anise, 2-inch cinnamon, 4 green cardamoms, 4 cloves",
+      "Pinch of saffron soaked in 2 tbsp warm milk",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Marinate chicken with yogurt, ginger-garlic paste, chili powder, turmeric, biryani masala, half the fried onions, mint, cilantro, lemon juice, 2 tbsp ghee, and salt. Set aside for 2 hours.",
+      "Par-cook the soaked Basmati rice with whole spices and salt until 70% done. Drain thoroughly.",
+      "In a heavy-bottomed pot (handi), spread the marinated chicken in a single layer.",
+      "Layer the 70% cooked rice evenly over the raw chicken.",
+      "Sprinkle the remaining fried onions, mint, cilantro, saffron milk, and remaining 2 tbsp of ghee on top of the rice.",
+      "Cover the pot with a tight-fitting lid. Seal the edges with dough (dum) or use a heavy weight on top.",
+      "Cook on high heat for the first 5-7 minutes. Then, reduce the heat to the lowest possible setting and cook for 30-35 minutes.",
+      "Let it rest for 10 minutes before opening. Gently fluff and serve hot with raita."
+    ],
+    "Cuisine": "Hyderabadi / Mughlai"
+  },
+  {
+    "RecipeName": "Chicken Korma",
+    "Ingredients": [
+      "500g chicken, cut into pieces",
+      "1 large onion, sliced and deep-fried",
+      "1/2 cup plain yogurt, whisked",
+      "1/2 cup cashew or almond paste",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "Whole spices: 2 bay leaves, 4 green cardamoms, 1-inch cinnamon, 4 cloves",
+      "1/4 cup ghee or oil",
+      "Few drops of kewra (screwpine) essence (optional)",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Crush the fried onions. Set aside.",
+      "Heat ghee/oil in a pan. Add the whole spices and sauté for 30 seconds.",
+      "Add the chicken pieces and fry on high heat until lightly browned.",
+      "Add ginger-garlic paste and sauté for 2 minutes.",
+      "Lower the heat. Add the whisked yogurt, stirring continuously.",
+      "Add chili powder, turmeric, coriander powder, and salt. Cook the masala for 5-7 minutes.",
+      "Add the cashew/almond paste and the crushed fried onions. Sauté for 3-4 minutes, stirring constantly.",
+      "Add 1.5 cups of water. Bring to a boil, then cover and simmer for 15-20 minutes, or until the chicken is tender.",
+      "Stir in the garam masala and kewra essence. Serve hot."
+    ],
+    "Cuisine": "Mughlai / North Indian"
+  },
+  {
+    "RecipeName": "Shahi Paneer",
+    "Ingredients": [
+      "250g paneer, cubed",
+      "1 large onion, boiled",
+      "2 large tomatoes, pureed",
+      "1/4 cup cashews, soaked",
+      "1/4 cup heavy cream",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp red chili powder",
+      "1/4 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "1 tsp sugar (optional)",
+      "2 tbsp butter or ghee",
+      "Salt to taste",
+      "Pinch of saffron"
+    ],
+    "Steps": [
+      "Make a smooth paste of the boiled onion and soaked cashews.",
+      "Heat butter/ghee in a pan. Add ginger-garlic paste and sauté for a minute.",
+      "Add the tomato puree and cook for 5-7 minutes.",
+      "Add the onion-cashew paste, chili powder, turmeric, and salt. Sauté for 5 minutes, stirring continuously.",
+      "Add 1 cup of water and the sugar. Bring to a simmer.",
+      "Add the paneer cubes and saffron. Simmer for 5 minutes.",
+      "Stir in the heavy cream and garam masala. Cook for 1-2 minutes on low heat. Do not boil.",
+      "Serve hot."
+    ],
+    "Cuisine": "Mughlai / North Indian"
+  },
+  {
+    "RecipeName": "Dal Fry",
+    "Ingredients": [
+      "1 cup toor dal (pigeon peas)",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tempering (Tadka): 2 tbsp ghee, 1 tsp cumin seeds, 1/2 tsp mustard seeds, 1/4 tsp asafoetida (hing), 1 onion (finely chopped), 1 tomato (finely chopped), 1 tsp ginger-garlic paste, 1-2 green chilies (slit), 1/2 tsp red chili powder, 1/2 tsp garam masala"
+    ],
+    "Steps": [
+      "Pressure cook the toor dal with turmeric, salt, and 3 cups of water for 3-4 whistles until soft.",
+      "Heat ghee in a pan for the tadka.",
+      "Add mustard seeds and cumin seeds. When they pop, add asafoetida.",
+      "Add the chopped onion, green chilies, and ginger-garlic paste. Sauté until the onion is golden.",
+      "Add the chopped tomato and cook until soft.",
+      "Add red chili powder and garam masala. Sauté for 30 seconds.",
+      "Pour this tempering over the cooked, whisked dal.",
+      "Bring the dal to a simmer and cook for 5 minutes.",
+      "Garnish with cilantro and serve."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Aloo Matar",
+    "Ingredients": [
+      "3 large potatoes, peeled and cubed",
+      "1 cup green peas (matar), fresh or frozen",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pressure cooker or pan.",
+      "Add cumin seeds and let them splutter.",
+      "Add the chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, turmeric, coriander powder, and chili powder. Cook until oil separates.",
+      "Add the cubed potatoes and green peas. Sauté for 2-3 minutes.",
+      "Add 1.5 cups of water and salt. Mix well.",
+      "If using a pressure cooker, cook for 2 whistles. If using a pan, cover and simmer for 15-20 minutes, or until potatoes are tender.",
+      "Stir in the garam masala and garnish with cilantro."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Mutton Korma",
+    "Ingredients": [
+      "500g mutton, cut into pieces",
+      "1 large onion, sliced and deep-fried",
+      "1/2 cup plain yogurt, whisked",
+      "1/2 cup cashew or almond paste",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp garam masala",
+      "Whole spices: 2 bay leaves, 1 black cardamom, 4 green cardamoms, 1-inch cinnamon, 4 cloves",
+      "1/4 cup ghee or oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat ghee/oil in a pressure cooker. Add the whole spices.",
+      "Add the mutton pieces and fry on high heat until browned.",
+      "Add ginger-garlic paste and cook for 2 minutes.",
+      "Lower the heat. Add the whisked yogurt, stirring continuously.",
+      "Add chili powder, coriander, turmeric, and salt. Sauté for 5-7 minutes.",
+      "Add the cashew/almond paste and the crushed fried onions. Sauté for 3-4 minutes.",
+      "Add 1.5 cups of water. Secure the lid and pressure cook for 6-7 whistles, or until the mutton is tender.",
+      "Let the pressure release. Stir in the garam masala and serve hot."
+    ],
+    "Cuisine": "Mughlai / North Indian"
+  },
+  {
+    "RecipeName": "Bhatura",
+    "Ingredients": [
+      "2 cups all-purpose flour (maida)",
+      "1/2 cup semolina (sooji), fine",
+      "1/2 cup plain yogurt",
+      "1/2 tsp baking soda",
+      "1 tsp sugar",
+      "1 tbsp oil",
+      "Salt to taste",
+      "Warm water to knead",
+      "Oil for deep frying"
+    ],
+    "Steps": [
+      "In a large bowl, combine maida, sooji, baking soda, sugar, and salt.",
+      "Add the yogurt and 1 tbsp of oil. Mix well.",
+      "Gradually add warm water and knead into a soft, pliable dough.",
+      "Cover the dough with a damp cloth and let it rest in a warm place for at least 2 hours.",
+      "Knead the dough again for a minute. Divide into equal-sized balls.",
+      "Grease the rolling surface and rolling pin with oil.",
+      "Roll each ball into an oval or round shape, not too thin.",
+      "Heat oil in a kadai over high heat.",
+      "Carefully slide the bhatura into the hot oil. Gently press it down to help it puff.",
+      "Fry until golden brown on both sides. Drain and serve immediately with chole."
+    ],
+    "Cuisine": "North Indian Bread"
+  },
+  {
+    "RecipeName": "Chicken Chettinad",
+    "Ingredients": [
+      "500g chicken, cut into pieces",
+      "1 cup grated coconut",
+      "Chettinad Masala (roast & grind): 1 tbsp coriander seeds, 1 tsp cumin seeds, 1 tsp fennel seeds, 1/2 tsp black peppercorns, 1-inch cinnamon, 4 cloves, 2 green cardamoms, 1 star anise, 4-5 dried red chilies",
+      "1 large onion, finely chopped",
+      "1 tomato, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 sprig curry leaves",
+      "1/2 tsp turmeric powder",
+      "1 tbsp tamarind pulp (optional)",
+      "3 tbsp sesame oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Dry roast all ingredients for 'Chettinad Masala' until aromatic. Let cool and grind to a fine powder.",
+      "Dry roast the grated coconut until golden brown. Grind it to a paste, adding a little water if needed.",
+      "Heat sesame oil in a pan. Add curry leaves.",
+      "Add the chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add chopped tomato and cook until soft.",
+      "Add the ground chettinad masala, turmeric, and salt. Sauté for 2 minutes.",
+      "Add the chicken pieces and fry for 5-7 minutes.",
+      "Add the ground coconut paste and 1 cup of water (and tamarind pulp, if using).",
+      "Cover and simmer for 20-25 minutes, or until the chicken is cooked through.",
+      "Serve hot with rice or parotta."
+    ],
+    "Cuisine": "South Indian / Chettinad"
+  },
+  {
+    "RecipeName": "Fish Fry (Masala)",
+    "Ingredients": [
+      "500g fish steaks (kingfish, pomfret, or rohu)",
+      "Marinade: 2 tbsp ginger-garlic paste, 1 tbsp red chili powder, 1/2 tsp turmeric powder, 1 tsp coriander powder, 1/2 tsp cumin powder, 1 tbsp lemon juice, Salt to taste",
+      "2 tbsp rice flour or semolina (for coating)",
+      "Oil for shallow frying"
+    ],
+    "Steps": [
+      "Wash and pat dry the fish steaks.",
+      "In a bowl, mix all the ingredients for the marinade to form a thick paste.",
+      "Coat each fish steak generously with the masala paste.",
+      "Let it marinate for at least 30 minutes in the refrigerator.",
+      "Spread the rice flour or semolina on a plate.",
+      "Dredge each marinated fish steak in the flour, coating it lightly on both sides.",
+      "Heat oil in a flat pan for shallow frying.",
+      "Carefully place the fish steaks in the hot oil.",
+      "Fry on medium heat for 4-5 minutes per side, or until golden brown, crisp, and the fish is cooked through.",
+      "Drain on a paper towel and serve hot with onion rings and lemon wedges."
+    ],
+    "Cuisine": "Indian / Coastal"
+  },
+  {
+    "RecipeName": "Mint Chutney (Pudina Chutney)",
+    "Ingredients": [
+      "1 cup fresh mint leaves (pudina)",
+      "1/2 cup fresh cilantro leaves (dhania)",
+      "1-2 green chilies",
+      "1/2 inch ginger",
+      "1 tbsp lemon juice",
+      "1/2 tsp cumin seeds",
+      "1/4 tsp black salt (kala namak)",
+      "Salt to taste",
+      "2-3 tbsp water (as needed)"
+    ],
+    "Steps": [
+      "Wash the mint and cilantro leaves thoroughly.",
+      "In a blender, combine all the ingredients: mint, cilantro, green chilies, ginger, lemon juice, cumin seeds, black salt, and salt.",
+      "Add 2-3 tbsp of water (or just enough to get the blender going).",
+      "Blend to a smooth paste.",
+      "Taste and adjust salt or lemon juice if needed.",
+      "Serve as a dip with samosas, pakoras, or tandoori items."
+    ],
+    "Cuisine": "Indian Condiment"
+  },
+  {
+    "RecipeName": "Tamarind Chutney (Imli Chutney)",
+    "Ingredients": [
+      "1/2 cup seedless tamarind (imli)",
+      "1/2 cup jaggery, grated, or sugar",
+      "1 cup hot water",
+      "1/2 tsp roasted cumin powder",
+      "1/2 tsp dry ginger powder (sonth)",
+      "1/4 tsp red chili powder",
+      "1/4 tsp black salt (kala namak)",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Soak the tamarind in 1 cup of hot water for 30 minutes.",
+      "Squeeze the tamarind well with your hands to extract the pulp. Strain the mixture, discarding the fibers.",
+      "Transfer the tamarind pulp to a saucepan.",
+      "Add the grated jaggery (or sugar), roasted cumin powder, ginger powder, chili powder, black salt, and regular salt.",
+      "Bring the mixture to a boil.",
+      "Simmer on low heat for 8-10 minutes, or until the chutney thickens to a sauce-like consistency.",
+      "Let it cool completely. It will thicken further as it cools.",
+      "Store in an airtight container in the refrigerator."
+    ],
+    "Cuisine": "Indian Condiment"
+  },
+  {
+    "RecipeName": "Dahi Vada",
+    "Ingredients": [
+      "Vadas: 1 cup urad dal (skinned black gram), soaked 4 hours",
+      "Yogurt Mixture: 2 cups plain yogurt (dahi), whisked smooth, 1 tsp sugar, Salt",
+      "Toppings: Tamarind chutney, Mint chutney, Roasted cumin powder, Red chili powder, Chaat masala, Sev (optional)"
+    ],
+    "Steps": [
+      "Drain the soaked urad dal completely. Grind to a thick, fluffy paste with minimal water.",
+      "Beat the batter for 5 minutes to aerate it. Add salt.",
+      "Heat oil for deep frying. Drop spoonfuls of batter (or use the Medu Vada shaping method) into the hot oil.",
+      "Fry on medium heat until golden brown. Drain.",
+      "Have a bowl of warm water ready. Add the fried vadas to the water and let them soak for 15-20 minutes. They will soften and swell.",
+      "Gently squeeze each vada between your palms to remove excess water. Arrange them on a serving platter.",
+      "In a separate bowl, whisk the yogurt with sugar and salt until smooth.",
+      "Pour the sweet yogurt mixture generously over the vadas, covering them completely.",
+      "Chill for at least 1 hour.",
+      "Before serving, drizzle with tamarind chutney and mint chutney. Sprinkle with cumin powder, chili powder, and chaat masala."
+    ],
+    "Cuisine": "Indian Snack / Chaat"
+  },
+  {
+    "RecipeName":"Aloo Tikki Chaat",
+    "Ingredients": [
+      "Aloo Tikkis: 4 large potatoes (boiled, mashed), 2 tbsp cornflour, 1/2 tsp red chili powder, Salt",
+      "Toppings: 1/2 cup boiled chickpeas, 1/2 cup whisked yogurt, Tamarind chutney, Mint chutney, 1 onion (finely chopped), Chaat masala, Roasted cumin powder, Red chili powder, Sev (gram flour noodles), Pomegranate seeds"
+    ],
+    "Steps": [
+      "For tikkis: Mix mashed potatoes, cornflour, chili powder, and salt. Form into flat, round patties.",
+      "Heat oil on a flat pan (tava). Shallow fry the tikkis on medium heat until golden brown and crisp on both sides.",
+      "To assemble: Place 2 hot aloo tikkis on a plate.",
+      "Crush them slightly. Top with a spoonful of boiled chickpeas.",
+      "Drizzle generously with whisked yogurt, tamarind chutney, and mint chutney.",
+      "Sprinkle with chopped onions, chaat masala, cumin powder, and red chili powder.",
+      "Garnish with sev and pomegranate seeds. Serve immediately."
+    ],
+    "Cuisine": "Indian Street Food / Chaat"
+  },
+  {
+    "RecipeName": "Pani Puri (Golgappa)",
+    "Ingredients": [
+      "30-40 readymade puris (crispy hollow balls)",
+      "Pani (Spicy Water): 1 cup mint leaves, 1/2 cup cilantro, 1-2 green chilies, 1-inch ginger, 1 small ball of tamarind, 1 tbsp pani puri masala, 1/2 tsp black salt, 4 cups cold water",
+      "Filling: 1 cup boiled chickpeas, 1 cup boiled potato (cubed), 1/4 cup chopped onion (optional)"
+    ],
+    "Steps": [
+      "For pani: Blend mint, cilantro, chilies, ginger, and tamarind with a little water to a smooth paste.",
+      "Strain this paste into a large bowl. Add 4 cups of cold water.",
+      "Stir in the pani puri masala, black salt, and regular salt. Taste and adjust. Chill the pani.",
+      "For filling: In a bowl, lightly mash the boiled potatoes and chickpeas. Add chopped onion if using. Add a pinch of salt and chaat masala.",
+      "To serve: Crack a small hole in the top of one puri.",
+      "Stuff it with a small amount of the potato-chickpea filling.",
+      "Dip the stuffed puri into the chilled pani, fill it up, and eat it whole immediately."
+    ],
+    "Cuisine": "Indian Street Food / Chaat"
+  },
+  {
+    "RecipeName": "Bhelpuri",
+    "Ingredients": [
+      "2 cups puffed rice (murmura)",
+      "1/2 cup roasted peanuts",
+      "1/2 cup sev (thin gram flour noodles)",
+      "1/2 cup crushed papdis (crisp flat puris)",
+      "1 large onion, finely chopped",
+      "1 large tomato, finely chopped",
+      "1 large potato, boiled and cubed",
+      "1/4 cup raw mango, finely chopped (if in season)",
+      "3 tbsp tamarind chutney",
+      "2 tbsp mint chutney",
+      "1/2 tsp chaat masala",
+      "1/4 cup chopped cilantro",
+      "1 tbsp lemon juice"
+    ],
+    "Steps": [
+      "In a large bowl, combine the puffed rice, peanuts, sev, and crushed papdis. (Add these dry ingredients just before serving to keep them crisp).",
+      "Add the chopped onion, tomato, boiled potato, and raw mango.",
+      "Pour the tamarind chutney and mint chutney over the mixture.",
+      "Sprinkle with chaat masala and chopped cilantro.",
+      "Add the lemon juice.",
+      "Toss everything together quickly and lightly until well combined.",
+      "Serve immediately, garnished with more sev and cilantro."
+    ],
+    "Cuisine": "Indian Street Food / Chaat"
+  },
+  {
+    "RecipeName": "Kadhi Pakora",
+    "Ingredients": [
+      "Kadhi: 1 cup sour yogurt, 1/2 cup gram flour (besan), 1/2 tsp turmeric powder, 1/2 tsp red chili powder, 6 cups water, Salt",
+      "Pakoras: 1 cup besan, 1 onion (chopped), 1/2 tsp ajwain, 1/4 tsp baking soda, Salt, Water, Oil for frying",
+      "Tempering: 2 tbsp ghee, 1 tsp mustard seeds, 1 tsp cumin seeds, 1/4 tsp asafoetida (hing), 1 sprig curry leaves, 2-3 dried red chilies"
+    ],
+    "Steps": [
+      "For pakoras: Mix all pakora ingredients (except oil) to make a thick batter. Deep fry small spoonfuls until golden. Keep aside.",
+      "For kadhi: In a large pot, whisk yogurt, 1/2 cup besan, turmeric, chili powder, and salt. Whisk until no lumps remain.",
+      "Slowly add 6 cups of water, whisking continuously.",
+      "Place the pot on medium heat. Bring to a boil, stirring constantly to prevent curdling.",
+      "Once it boils, reduce heat and let it simmer for 15-20 minutes, stirring occasionally, until the kadhi thickens.",
+      "Add the fried pakoras to the simmering kadhi. Cook for 5 more minutes.",
+      "For tempering: Heat ghee. Add all tempering ingredients. Sauté for 30 seconds.",
+      "Pour the hot tempering over the kadhi. Serve hot with rice."
+    ],
+    "Cuisine": "North Indian (Punjabi)"
+  },
+  {
+    "RecipeName": "Sarson Ka Saag",
+    "Ingredients": [
+      "1 large bunch mustard greens (sarson), chopped",
+      "1/2 bunch spinach (palak), chopped",
+      "1/4 bunch bathua (chenopodium) (optional, for taste)",
+      "1-inch ginger, chopped",
+      "2-3 green chilies, chopped",
+      "2 tbsp maize flour (makki ka atta)",
+      "Salt to taste",
+      "Tempering (Tadka): 2 tbsp ghee, 1 large onion (finely chopped), 1 tbsp ginger-garlic paste, 1/2 tsp red chili powder, 1/4 tsp asafoetida"
+    ],
+    "Steps": [
+      "Wash and chop all the greens.",
+      "In a pressure cooker, add the greens, chopped ginger, green chilies, salt, and 1/2 cup of water.",
+      "Pressure cook for 4-5 whistles until the greens are very soft.",
+      "Let the pressure release. Open the lid and add the maize flour. Blend the greens using an immersion blender (or mash well) to a coarse, thick puree.",
+      "Simmer the saag for 10-15 minutes on low heat, stirring.",
+      "For tadka: Heat ghee in a separate pan. Add asafoetida.",
+      "Add the chopped onion and sauté until deep golden brown.",
+      "Add ginger-garlic paste and red chili powder. Sauté for 1 minute.",
+      "Pour this tadka over the cooked saag. Mix well.",
+      "Serve hot with a dollop of white butter and Makki ki Roti."
+    ],
+    "Cuisine": "North Indian (Punjabi)"
+  },
+  {
+    "RecipeName": "Makki Ki Roti",
+    "Ingredients": [
+      "2 cups maize flour (makki ka atta)",
+      "1/2 tsp ajwain (carom seeds) (optional)",
+      "Salt to taste",
+      "Hot water, as needed to knead",
+      "Ghee for cooking"
+    ],
+    "Steps": [
+      "In a bowl, combine the maize flour, ajwain, and salt.",
+      "Gradually add hot water (as hot as you can handle) and start kneading the dough.",
+      "Knead for 5-7 minutes. The dough should be soft and smooth. (This dough is gluten-free, so it needs good kneading).",
+      "Take a small portion of the dough. Knead it again for 30 seconds.",
+      "Place the dough ball on a piece of parchment paper or a plastic sheet. Wet your palms.",
+      "Pat the dough with your palms to flatten it into a round circle (roti). It's difficult to roll with a pin.",
+      "Heat a tava (griddle) over medium heat.",
+      "Carefully lift the parchment paper and flip the roti onto the hot tava.",
+      "Cook for about 1 minute, then flip. Cook the other side for 1-2 minutes.",
+      "Finally, cook it directly on the open flame (optional, for a smoky flavor) or cook on the tava, pressing with a cloth, until brown spots appear.",
+      "Generously brush with ghee and serve immediately with Sarson Ka Saag."
+    ],
+    "Cuisine": "North Indian (Punjabi)"
+  },
+  {
+    "RecipeName": "Paneer Tikka (on Tawa)",
+    "Ingredients": [
+      "250g paneer, cut into 1.5-inch cubes",
+      "1 large onion, cut into 1.5-inch squares",
+      "1 large capsicum (bell pepper), cut into 1.5-inch squares",
+      "Marinade: 1 cup thick yogurt, 2 tbsp gram flour (besan), 1 tbsp ginger-garlic paste, 1 tsp Kashmiri red chili powder, 1/2 tsp turmeric, 1 tsp garam masala, 1 tsp chaat masala, 1 tbsp lemon juice, 1 tbsp mustard oil, Salt"
+    ],
+    "Steps": [
+      "In a bowl, whisk all the ingredients for the marinade until smooth. (Lightly roast the besan for a better taste).",
+      "Add the paneer cubes, onion squares, and capsicum squares to the marinade.",
+      "Gently toss to coat everything evenly. Cover and refrigerate for at least 1 hour.",
+      "Thread the marinated paneer, onion, and capsicum pieces onto wooden skewers (soak skewers in water first).",
+      "Heat a non-stick tawa (griddle) or pan with 1 tbsp of oil.",
+      "Place the skewers on the hot tawa. Cook on medium heat.",
+      "Keep turning the skewers every 2-3 minutes, basting with a little oil, until all sides are golden brown and charred.",
+      "Sprinkle with chaat masala and serve hot with mint chutney."
+    ],
+    "Cuisine": "North Indian / Appetizer"
+  },
+  {
+    "RecipeName": "Dum Aloo (Kashmiri)",
+    "Ingredients": [
+      "500g baby potatoes, boiled and peeled",
+      "1/2 cup plain yogurt, whisked",
+      "1/2 cup mustard oil (for frying)",
+      "2 tbsp ghee",
+      "1 tsp fennel powder (saunf)",
+      "1 tsp dry ginger powder (sonth)",
+      "1 tbsp Kashmiri red chili powder",
+      "1/4 tsp asafoetida (hing)",
+      "1 tsp garam masala",
+      "Whole spices: 1 black cardamom, 2 green cardamoms, 1-inch cinnamon, 2 cloves",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Prick the boiled baby potatoes all over with a fork.",
+      "Heat mustard oil in a pan. Deep fry the potatoes on medium heat until they are golden brown and crisp on the outside. Drain and set aside.",
+      "In a separate pan, heat 2 tbsp of ghee. Add asafoetida and the whole spices.",
+      "Lower the heat. Add the Kashmiri red chili powder, followed quickly by the whisked yogurt, stirring constantly to prevent curdling.",
+      "Add fennel powder, ginger powder, and salt. Cook the masala for 3-4 minutes.",
+      "Add the fried potatoes and 1.5 cups of water. Bring to a boil.",
+      "Cover and simmer on low heat for 15-20 minutes, allowing the potatoes to absorb the gravy.",
+      "The gravy will thicken and become a deep red. Stir in garam masala. Serve hot."
+    ],
+    "Cuisine": "Kashmiri / North Indian"
+  },
+  {
+    "RecipeName": "Moong Dal Halwa",
+    "Ingredients": [
+      "1 cup yellow moong dal (skinned yellow lentils), soaked for 4 hours",
+      "1 cup ghee",
+      "1 cup sugar",
+      "1 cup milk",
+      "1 cup water",
+      "1/2 tsp cardamom powder",
+      "2 tbsp mixed nuts (almonds, pistachios), slivered"
+    ],
+    "Steps": [
+      "Drain the soaked moong dal. Grind it to a coarse paste (without adding water).",
+      "In a heavy-bottomed pan, heat the ghee.",
+      "Add the ground moong dal paste to the hot ghee.",
+      "Stir continuously on low-medium heat. This is the most important step. The dal will first be sticky, then lumpy, and finally will break down into a granular, sand-like texture.",
+      "Roast for 30-45 minutes, or until the dal paste is golden brown and aromatic, and the ghee separates.",
+      "While the dal is roasting, combine sugar, milk, and water in a separate saucepan. Bring to a boil.",
+      "Once the dal is roasted, slowly and carefully pour the hot milk-sugar-water mixture into the pan. It will splutter.",
+      "Stir vigorously to prevent lumps. The mixture will absorb the liquid quickly.",
+      "Continue to cook on low heat, stirring, until the halwa thickens and starts to leave the sides of the pan (about 10-15 minutes).",
+      "Stir in the cardamom powder and nuts. Serve hot."
+    ],
+    "Cuisine": "Rajasthani / Indian Dessert"
+  },
+  {
+    "RecipeName": "Rasmalai",
+    "Ingredients": [
+      "1 liter full-fat milk (for chena)",
+      "2 tbsp lemon juice",
+      "Syrup: 1 cup sugar, 4 cups water",
+      "Rabri (Milk): 1 liter full-fat milk, 1/2 cup sugar, 1/2 tsp cardamom powder, 2 tbsp chopped pistachios & almonds, Saffron strands"
+    ],
+    "Steps": [
+      "Make 'chena' (curdled milk solids) from 1 liter of milk and lemon juice, as in the Rasgulla recipe. Squeeze and knead until smooth.",
+      "Make small, flat discs from the chena.",
+      "Boil sugar and water in a wide pot. Add the chena discs. Cover and boil for 15-20 minutes. The discs will double in size.",
+      "Let them cool. Gently squeeze out the syrup.",
+      "For rabri: In a heavy pan, boil the other 1 liter of milk. Simmer on low heat, stirring often, until it reduces to about half its quantity.",
+      "Add sugar, cardamom powder, saffron, and nuts to the reduced milk. Stir until sugar dissolves. Let the rabri cool completely.",
+      "Add the cooled, squeezed chena discs (rasgullas) to the cooled rabri.",
+      "Chill in the refrigerator for at least 4-6 hours, allowing the discs to soak up the rabri.",
+      "Serve chilled, garnished with more nuts."
+    ],
+    "Cuisine": "Bengali / Indian Dessert"
+  },
+  {
+    "RecipeName": "Chicken Kebab (Seekh Kebab)",
+    "Ingredients": [
+      "500g chicken mince (keema)",
+      "1 large onion, finely chopped and squeezed of all water",
+      "1/4 cup chopped cilantro",
+      "2 green chilies, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp garam masala",
+      "1 tsp cumin powder",
+      "1/2 tsp red chili powder",
+      "1 tbsp gram flour (besan), roasted",
+      "1 tbsp lemon juice",
+      "1 tbsp melted butter",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "In a bowl, combine the chicken mince with all other ingredients (squeezed onion, cilantro, chilies, ginger-garlic, spices, besan, lemon juice, butter, salt).",
+      "Mix very well, kneading the mixture for 5 minutes.",
+      "Refrigerate the mixture for at least 1 hour.",
+      "Grease your palms. Take a portion of the mixture and press it around a metal skewer, shaping it into a long, cylindrical kebab (seekh).",
+      "Preheat your oven's grill/broiler to high.",
+      "Place the skewers on a grill rack with a tray underneath.",
+      "Grill for 10-12 minutes, turning halfway through, until cooked and lightly charred.",
+      "Alternatively, pan-fry on a tawa, turning, until cooked through.",
+      "Carefully remove from skewers. Serve hot with mint chutney and onion rings."
+    ],
+    "Cuisine": "Mughlai / Appetizer"
+  },
+  {
+    "RecipeName": "Mutton Seekh Kebab",
+    "Ingredients": [
+      "500g mutton mince (keema), with some fat",
+      "1 large onion, finely chopped and squeezed",
+      "1 tbsp ginger-garlic paste",
+      "2 green chilies, finely chopped",
+      "1/4 cup chopped cilantro",
+      "1 tbsp raw papaya paste (as tenderizer)",
+      "1 tsp garam masala",
+      "1 tsp cumin powder",
+      "1/2 tsp red chili powder",
+      "2 tbsp roasted gram flour (besan)",
+      "1 tbsp melted ghee",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Combine mutton mince, squeezed onion, ginger-garlic, chilies, cilantro, papaya paste, all spices, besan, ghee, and salt.",
+      "Knead the mixture for 5-10 minutes until it becomes sticky and holds together.",
+      "Refrigerate for at least 2 hours.",
+      "Grease your palms. Take a portion of the mixture and press it around a metal skewer, shaping it into a long kebab.",
+      "Grill in a preheated oven or on a tawa (as in Chicken Seekh Kebab recipe) until cooked through and charred.",
+      "Baste with ghee or butter while grilling.",
+      "Serve hot with mint chutney."
+    ],
+    "Cuisine": "Mughlai / Appetizer"
+  },
+  {
+    "RecipeName": "Hyderabadi Baingan (Bagara Baingan)",
+    "Ingredients": [
+      "250g small, purple brinjals (eggplants)",
+      "Masala Paste (roast & grind): 1/4 cup peanuts, 2 tbsp sesame seeds, 2 tbsp grated dry coconut, 1 tsp coriander seeds, 1 tsp cumin seeds",
+      "1 large onion, sliced",
+      "1 tbsp ginger-garlic paste",
+      "1 sprig curry leaves",
+      "1/2 tsp mustard seeds",
+      "1/4 tsp fenugreek seeds (methi)",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tbsp tamarind pulp",
+      "1/2 tsp jaggery (optional)",
+      "3 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Dry roast peanuts, sesame seeds, coconut, coriander, and cumin seeds separately. Let cool and grind to a smooth paste with a little water.",
+      "Wash the brinjals. Make two perpendicular slits from the bottom, keeping the stems intact.",
+      "Heat oil in a pan. Fry the brinjals until the skin shrivels and they are 80% cooked. Remove and set aside.",
+      "In the same oil, add mustard seeds, fenugreek seeds, and curry leaves.",
+      "Add the sliced onion and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add the ground masala paste, turmeric, and chili powder. Sauté for 5-7 minutes, until the oil separates.",
+      "Add the tamarind pulp, jaggery (if using), salt, and 1.5 cups of water. Bring to a boil.",
+      "Gently add the fried brinjals to the gravy.",
+      "Cover and simmer on low heat for 10-15 minutes, until the brinjals are fully cooked and gravy has thickened.",
+      "Serve hot with biryani or roti."
+    ],
+    "Cuisine": "Hyderabadi / South Indian"
+  },
+  {
+    "RecipeName": "Khaman (Nylon Khaman)",
+    "Ingredients": [
+      "1.5 cups gram flour (besan), fine",
+      "1/2 tsp citric acid crystals",
+      "1.5 tbsp sugar",
+      "3/4 cup water",
+      "1 tsp ginger-chili paste",
+      "Salt to taste",
+      "1 tsp Eno fruit salt",
+      "Tempering: 2 tbsp oil, 1 tsp mustard seeds, 1 sprig curry leaves, 3-4 green chilies (slit), 1/2 cup water, 2 tbsp sugar, 1/4 tsp asafoetida"
+    ],
+    "Steps": [
+      "In a bowl, mix besan, citric acid, sugar, ginger-chili paste, and salt. Add 3/4 cup water to make a smooth, lump-free batter.",
+      "Grease a steaming pan. Boil water in a steamer.",
+      "Just before steaming, add the Eno fruit salt to the batter and 1 tsp of water on top of it. Stir quickly and vigorously for 10-15 seconds. The batter will become very frothy.",
+      "Pour immediately into the greased pan.",
+      "Steam on high heat for 12-15 minutes. Check with a toothpick; it should come out clean.",
+      "Let the khaman cool for 10 minutes, then invert onto a plate and cut into squares.",
+      "For tempering: Heat oil. Add mustard seeds, asafoetida, curry leaves, and green chilies. Sauté for 30 seconds.",
+      "Add 1/2 cup water and 2 tbsp sugar. Bring to a boil.",
+      "Pour this hot tempering evenly over the khaman pieces.",
+      "Garnish with cilantro and grated coconut. Serve."
+    ],
+    "Cuisine": "Gujarati / Indian Snack"
+  },
+  {
+    "RecipeName": "Vegetable Pulao",
+    "Ingredients": [
+      "1.5 cups Basmati rice, soaked for 30 minutes",
+      "2 cups mixed vegetables (carrots, peas, beans, potatoes, cauliflower)",
+      "1 large onion, thinly sliced",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "Whole spices: 1 bay leaf, 2-inch cinnamon, 4 green cardamoms, 4 cloves, 1 star anise",
+      "1/2 tsp garam masala",
+      "3 cups water or vegetable broth",
+      "2 tbsp ghee or oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat ghee/oil in a pot or pressure cooker.",
+      "Add the cumin seeds and all the whole spices. Sauté for 30 seconds.",
+      "Add the sliced onion and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add all the mixed vegetables. Sauté on high heat for 3-4 minutes.",
+      "Add the soaked and drained rice. Sauté gently for 1-2 minutes.",
+      "Add the water (or broth), salt, and garam masala. Bring to a boil.",
+      "If in a pot, cover tightly, reduce heat to low, and simmer for 15-18 minutes. If in a pressure cooker, cook for 2 whistles.",
+      "Let it rest for 10 minutes before opening. Fluff with a fork and serve with raita."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Egg Curry",
+    "Ingredients": [
+      "6 large eggs, hard-boiled and peeled",
+      "1 large onion, finely chopped",
+      "2 large tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Make small slits in the hard-boiled eggs. (Optional: lightly fry them in 1 tsp of oil until golden spots appear).",
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add the chopped onion and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add the tomato puree, turmeric, coriander powder, chili powder, and salt.",
+      "Cook the masala on medium-low heat until it thickens and oil separates.",
+      "Add 1.5 cups of water to the pan. Bring the gravy to a boil.",
+      "Gently slide the hard-boiled eggs into the gravy.",
+      "Cover and simmer for 8-10 minutes.",
+      "Stir in the garam masala. Garnish with cilantro and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Fish Korma",
+    "Ingredients": [
+      "500g firm white fish, cut into pieces",
+      "1 large onion, sliced and deep-fried",
+      "1/2 cup plain yogurt, whisked",
+      "1/2 cup cashew paste",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "Whole spices: 2 bay leaves, 4 green cardamoms, 1-inch cinnamon, 4 cloves",
+      "1/4 cup ghee or oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Crush the fried onions. Set aside.",
+      "Heat ghee/oil in a pan. Add the whole spices.",
+      "Add ginger-garlic paste and sauté for 1 minute.",
+      "Lower the heat. Add whisked yogurt, chili powder, and turmeric. Stir quickly.",
+      "Add the cashew paste and crushed fried onions. Sauté for 3-4 minutes, stirring constantly.",
+      "Add 1.5 cups of water and salt. Bring the gravy to a gentle simmer.",
+      "Gently add the fish pieces to the simmering gravy.",
+      "Cover and cook on low heat for 8-10 minutes, or until the fish is cooked through. Do not over-stir.",
+      "Sprinkle with garam masala and serve."
+    ],
+    "Cuisine": "Mughlai / North Indian"
+  },
+  {
+    "RecipeName": "Mushroom Masala",
+    "Ingredients": [
+      "250g button mushrooms, cleaned and quartered",
+      "1 large onion, finely chopped",
+      "2 tomatoes, pureed",
+      "1/2 cup cashew paste (or heavy cream)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pan. Add cumin seeds.",
+      "Add the chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, turmeric, coriander, and chili powder. Cook until oil separates.",
+      "Add the cashew paste and cook for 2-3 minutes, stirring constantly.",
+      "Add the quartered mushrooms and salt. Sauté for 5-7 minutes, until mushrooms release water and are cooked.",
+      "Add 1/2 cup of water (or as needed for gravy). Bring to a simmer.",
+      "Cover and cook for 5 minutes.",
+      "Stir in the garam masala and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Jeera Rice",
+    "Ingredients": [
+      "1.5 cups Basmati rice, soaked for 30 minutes",
+      "2 tbsp ghee",
+      "2 tsp cumin seeds (jeera)",
+      "1 bay leaf",
+      "1-inch cinnamon stick",
+      "2-3 green cardamoms",
+      "3 cups water",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Drain the soaked rice.",
+      "Heat ghee in a pot or pressure cooker.",
+      "Add the cumin seeds, bay leaf, cinnamon, and cardamoms. Sauté until the cumin seeds splutter and are aromatic.",
+      "Add the drained rice. Sauté gently for 2 minutes, being careful not to break the grains.",
+      "Add 3 cups of water and salt. Bring to a boil.",
+      "If in a pot, cover tightly, reduce heat to low, and simmer for 15 minutes. If in a pressure cooker, cook for 2 whistles.",
+      "Let it rest for 10 minutes before opening. Fluff with a fork.",
+      "Garnish with cilantro and serve with dal or curry."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Bengali Fish Curry (Macher Jhol)",
+    "Ingredients": [
+      "500g rohu or katla fish, cut into steaks",
+      "2 medium potatoes, cut lengthwise",
+      "1 large onion, sliced",
+      "1 large tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp Bengali 'panch phoron' (five-spice blend)",
+      "1 bay leaf",
+      "4 tbsp mustard oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Rub the fish steaks with 1/2 tsp turmeric and salt. Rub the potatoes with 1/4 tsp turmeric and salt.",
+      "Heat mustard oil in a pan until it's smoking hot. Lower the heat.",
+      "Fry the fish steaks in batches until golden brown. Remove and set aside.",
+      "In the same oil, fry the potatoes until golden brown. Remove and set aside.",
+      "In the remaining oil, add the panch phoron and bay leaf. Let them splutter.",
+      "Add the sliced onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add chopped tomato, coriander powder, chili powder, remaining turmeric, and salt. Cook until tomatoes are mushy.",
+      "Add 2 cups of hot water and bring to a boil.",
+      "Add the fried potatoes and cook for 5-7 minutes.",
+      "Gently add the fried fish pieces. Simmer for 5-7 minutes, until the fish absorbs the gravy.",
+      "Serve hot with steamed rice."
+    ],
+    "Cuisine": "Bengali"
+  },
+  {
+    "RecipeName": "Misal Pav",
+    "Ingredients": [
+      "Misal (Curry): 2 cups sprouted moth beans (matki), boiled",
+      "Curry Paste: 1/2 cup grated dry coconut, 1 onion (sliced), 1-inch ginger, 4-5 cloves garlic, 1 tbsp coriander seeds (all roasted and ground)",
+      "2 tbsp Goda masala or Misal masala",
+      "1 tsp red chili powder",
+      "1/2 tsp turmeric",
+      "Salt, Oil, Water",
+      "Toppings: Farsan (mixed fried snacks), 1 large onion (finely chopped), 1/4 cup chopped cilantro, Lemon wedges",
+      "8 pav (bread buns)"
+    ],
+    "Steps": [
+      "Heat 3 tbsp oil in a pan. Add mustard seeds and curry leaves.",
+      "Add the ground curry paste and sauté until oil separates.",
+      "Add the Goda masala, red chili powder, turmeric, and salt. Sauté for 1-2 minutes.",
+      "Add the boiled sprouts and 3-4 cups of water. Bring to a rolling boil.",
+      "Simmer for 10-15 minutes. The curry (rass) should be thin and spicy.",
+      "To serve: In a bowl, add a portion of the sprouted bean curry.",
+      "Top generously with farsan, chopped onion, and cilantro.",
+      "Drizzle with lemon juice. Serve hot with pav."
+    ],
+    "Cuisine": "Maharashtrian"
+  },
+  {
+    "RecipeName": "Prawn Curry",
+    "Ingredients": [
+      "250g prawns, deveined and cleaned",
+      "1 cup coconut milk",
+      "1 onion, finely chopped",
+      "1 tomato, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp coriander powder",
+      "1/2 tsp cumin seeds",
+      "1 sprig curry leaves",
+      "1 tbsp tamarind pulp (or 1 tsp lemon juice)",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Marinate the prawns with 1/4 tsp turmeric and salt for 15 minutes.",
+      "Heat oil in a pan. Add cumin seeds and curry leaves.",
+      "Add the chopped onion and sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add the tomato puree, remaining turmeric, chili powder, and coriander powder.",
+      "Cook the masala until oil separates.",
+      "Add the marinated prawns. Sauté on high heat for 2-3 minutes, until they turn pink.",
+      "Lower the heat. Add the coconut milk, tamarind pulp, and salt.",
+      "Stir gently and bring to a gentle simmer. Do not boil vigorously.",
+      "Cook for 3-5 minutes, or until the prawns are just cooked through. (Do not overcook prawns).",
+      "Serve hot with rice."
+    ],
+    "Cuisine": "Coastal Indian"
+  },
+  {
+    "RecipeName": "Lauki Kofta",
+    "Ingredients": [
+      "Koftas: 2 cups grated bottle gourd (lauki), 1/2 cup gram flour (besan), 1/2 tsp red chili powder, 1/4 tsp turmeric, Salt, Oil for frying",
+      "Gravy: 1 large onion (chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 1/4 cup cashew paste, 1/2 tsp cumin seeds, 1 tsp coriander powder, 1/2 tsp red chili powder, 1/4 tsp turmeric, 1/2 tsp garam masala, 2 tbsp oil, Salt"
+    ],
+    "Steps": [
+      "For koftas: Squeeze out all the water from the grated lauki. Reserve the water.",
+      "In a bowl, mix the squeezed lauki, besan, chili powder, turmeric, and salt. Do not add water. Form a tight dough.",
+      "Make small balls and deep fry on medium heat until golden brown. Keep aside.",
+      "For gravy: Heat 2 tbsp oil. Add cumin seeds.",
+      "Add chopped onion and sauté until golden.",
+      "Add ginger-garlic paste. Sauté for 1 minute.",
+      "Add tomato puree and all the spice powders (except garam masala). Cook until oil separates.",
+      "Add the cashew paste and sauté for 2 minutes.",
+      "Add 1.5 cups of water (use the reserved lauki water first). Bring to a boil.",
+      "Add salt and simmer the gravy for 5-7 minutes.",
+      "Just before serving, add the fried koftas and garam masala. Simmer for 2 minutes and serve hot."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Egg Bhurji (Anda Bhurji)",
+    "Ingredients": [
+      "4 large eggs",
+      "1 large onion, finely chopped",
+      "1 large tomato, finely chopped",
+      "2 green chilies, finely chopped",
+      "1/2 inch ginger, finely chopped",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder (optional)",
+      "1/2 tsp garam masala (optional)",
+      "2 tbsp vegetable oil",
+      "Salt to taste",
+      "1/4 cup chopped cilantro"
+    ],
+    "Steps": [
+      "Crack the eggs into a bowl, add salt, and whisk lightly. Set aside.",
+      "Heat oil in a pan. Add the chopped onion, green chilies, and ginger.",
+      "Sauté on medium heat until the onion is soft and translucent.",
+      "Add the chopped tomatoes and turmeric. Cook until the tomatoes are soft and mushy.",
+      "Add the red chili powder and garam masala (if using). Stir for 30 seconds.",
+      "Pour in the whisked eggs.",
+      "Let the eggs set for 30 seconds, then start scrambling them with a spatula.",
+      "Continue to cook, stirring, for 2-3 minutes, until the eggs are cooked to your liking.",
+      "Turn off the heat and stir in the chopped cilantro.",
+      "Serve hot with pav, roti, or bread."
+    ],
+    "Cuisine": "Indian"
+  },
+  {
+    "RecipeName": "Besan Ladoo",
+    "Ingredients": [
+      "2 cups gram flour (besan), coarse",
+      "1 cup ghee",
+      "1 cup powdered sugar (boora)",
+      "1/2 tsp cardamom powder",
+      "2 tbsp chopped almonds or cashews (optional)"
+    ],
+    "Steps": [
+      "Heat the ghee in a heavy-bottomed pan (kadai) on low heat.",
+      "Add the besan to the melted ghee.",
+      "Roast the besan on a strictly low heat, stirring continuously.",
+      "This process will take 30-40 minutes. The besan will first become lumpy, then loosen up, and finally turn a deep golden brown, releasing a nutty aroma and ghee.",
+      "Once roasted, turn off the heat. Stir in the cardamom powder and nuts.",
+      "Let the mixture cool down. It should be just warm to the touch (not hot, or the sugar will melt).",
+      "Add the powdered sugar to the warm besan-ghee mixture.",
+      "Mix well with your hands until the sugar is fully incorporated.",
+      "Take small portions of the mixture and shape them into round balls (ladoos).",
+      "Let the ladoos set at room temperature for a few hours. Store in an airtight container."
+    ],
+    "Cuisine": "Indian Dessert"
+  },
+  {
+    "RecipeName": "Kaju Katli (Cashew Fudge)",
+    "Ingredients": [
+      "1 cup cashews (kaju)",
+      "1/2 cup sugar",
+      "1/4 cup water",
+      "1 tsp ghee",
+      "1/4 tsp cardamom powder (optional)",
+      "1 tsp rose water (optional)"
+    ],
+    "Steps": [
+      "Grind the cashews in a dry blender to a fine powder. Sift it to ensure there are no lumps.",
+      "In a non-stick pan, combine the sugar and water. Heat on medium flame until the sugar dissolves completely.",
+      "Bring the syrup to a boil and cook until it reaches a 'one-string consistency'.",
+      "Reduce the heat to low. Add the cashew powder, cardamom powder, and rose water.",
+      "Stir continuously. The mixture will thicken quickly.",
+      "Keep stirring for 5-7 minutes until the mixture comes together as a single, non-sticky dough, leaving the sides of the pan.",
+      "Add the 1 tsp of ghee and mix well.",
+      "Transfer the dough to a greased sheet of parchment paper.",
+      "Let it cool for 1-2 minutes. While it's still warm, knead the dough for 1 minute until smooth.",
+      "Place another sheet of parchment paper on top and roll the dough to 1/4 inch thickness.",
+      "Let it cool and set for 1-2 hours (or 15-20 mins in the fridge).",
+      "Cut into diamond shapes. (Optional: decorate with edible silver vark)."
+    ],
+    "Cuisine": "Indian Dessert"
+  },
+  {
+    "RecipeName": "Rava Upma",
+    "Ingredients": [
+      "1 cup coarse semolina (rava/sooji)",
+      "2.5 cups hot water",
+      "1 onion, finely chopped",
+      "1/2 inch ginger, grated",
+      "2 green chilies, slit",
+      "1 sprig curry leaves",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "1 tsp chana dal",
+      "2 tbsp ghee or oil",
+      "1/4 cup chopped vegetables (carrot, peas) (optional)",
+      "Salt to taste",
+      "1 tbsp lemon juice"
+    ],
+    "Steps": [
+      "Dry roast the rava in a pan on low heat for 5-7 minutes until aromatic. Do not let it change color. Remove and keep aside.",
+      "Heat ghee/oil in the same pan. Add mustard seeds, urad dal, and chana dal. Sauté until golden.",
+      "Add ginger, green chilies, and curry leaves. Sauté for 30 seconds.",
+      "Add the chopped onion and sauté until translucent.",
+      "Add the optional vegetables and cook for 2-3 minutes.",
+      "Add 2.5 cups of hot water and salt. Bring to a rolling boil.",
+      "Reduce the heat to low. Slowly pour in the roasted rava, stirring continuously with the other hand to prevent lumps.",
+      "Keep stirring until the rava absorbs all the water and thickens.",
+      "Cover the pan and cook on the lowest heat for 3-5 minutes.",
+      "Turn off the heat. Add the lemon juice and 1 tsp of ghee. Fluff with a fork and serve hot."
+    ],
+    "Cuisine": "South Indian / Indian Breakfast"
+  },
+  {
+    "RecipeName": "Masala Chai",
+    "Ingredients": [
+      "1 cup water",
+      "1 cup milk",
+      "2 tsp black tea leaves",
+      "1.5 tbsp sugar (or to taste)",
+      "Masala (Spices): 1-inch ginger (crushed), 2 green cardamoms (crushed), 1-inch cinnamon stick, 2 cloves"
+    ],
+    "Steps": [
+      "In a saucepan, add the 1 cup of water, crushed ginger, cardamom, cinnamon, and cloves.",
+      "Bring the water to a rolling boil. Let it boil for 1-2 minutes for the spices to infuse.",
+      "Add the 2 tsp of tea leaves. Let it boil for another minute.",
+      "Add the 1 cup of milk and the sugar.",
+      "Bring the mixture back to a boil. Be careful, as it can boil over quickly.",
+      "Reduce the heat and let the chai simmer for 2-3 minutes to get a strong flavor and color.",
+      "Strain the chai through a tea strainer into cups.",
+      "Serve hot."
+    ],
+    "Cuisine": "Indian Drink"
+  },
+  {
+    "RecipeName": "Paneer Bhurji",
+    "Ingredients": [
+      "200g paneer, crumbled",
+      "1 large onion, finely chopped",
+      "1 large tomato, finely chopped",
+      "1/2 green bell pepper (capsicum), finely chopped (optional)",
+      "1-2 green chilies, finely chopped",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1/2 tsp pav bhaji masala (or garam masala)",
+      "2 tbsp oil or butter",
+      "Salt to taste",
+      "1/4 cup chopped cilantro"
+    ],
+    "Steps": [
+      "Heat oil/butter in a pan. Add the cumin seeds.",
+      "Add the chopped onion, green chilies, and capsicum. Sauté until the onion is soft.",
+      "Add the chopped tomatoes, turmeric, red chili powder, and salt.",
+      "Cook until the tomatoes are soft and mushy.",
+      "Add the crumbled paneer to the pan.",
+      "Stir and cook for 3-4 minutes, mixing the paneer well with the masala.",
+      "Sprinkle the pav bhaji masala (or garam masala) and mix.",
+      "Turn off the heat and stir in the chopped cilantro.",
+      "Serve hot with roti, pav, or as a sandwich filling."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Spinach Dal (Palak Dal)",
+    "Ingredients": [
+      "1 cup toor dal (pigeon peas)",
+      "1 bunch fresh spinach, chopped",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tempering: 2 tbsp ghee, 1 tsp cumin seeds, 1/4 tsp asafoetida (hing), 1 onion (chopped), 2-3 cloves garlic (chopped), 1-2 dried red chilies, 1/2 tsp red chili powder"
+    ],
+    "Steps": [
+      "Wash and rinse the toor dal. In a pressure cooker, add the dal, chopped spinach, turmeric, salt, and 3 cups of water.",
+      "Pressure cook for 3-4 whistles until the dal is completely soft.",
+      "Whisk the dal lightly.",
+      "For tempering: Heat ghee in a small pan.",
+      "Add cumin seeds and asafoetida. When they splutter, add the dried red chilies and chopped garlic.",
+      "Sauté until the garlic is golden.",
+      "Add the chopped onion and sauté until golden brown.",
+      "Turn off the heat. Add the red chili powder and immediately pour the tempering over the cooked dal.",
+      "Mix well and simmer for 2 minutes. Serve hot with rice."
+    ],
+    "Cuisine": "North Indian"
+  },
+  {
+    "RecipeName": "Sabudana Khichdi",
+    "Ingredients": [
+      "1 cup sago (sabudana), rinsed and soaked for 4-6 hours",
+      "1/2 cup raw peanuts, roasted, peeled, and coarsely crushed",
+      "2 medium potatoes, boiled and cubed",
+      "2-3 green chilies, chopped",
+      "1 tsp cumin seeds",
+      "1 sprig curry leaves (optional, not for fasting)",
+      "2 tbsp ghee or oil",
+      "1 tbsp lemon juice",
+      "1 tsp sugar",
+      "Salt to taste (sendha namak for fasting)"
+    ],
+    "Steps": [
+      "Drain the soaked sabudana completely. It should be soft but not mushy.",
+      "In a bowl, gently mix the drained sabudana, crushed peanuts, salt, and sugar.",
+      "Heat ghee/oil in a pan. Add cumin seeds and let them splutter.",
+      "Add the green chilies and curry leaves. Sauté for 30 seconds.",
+      "Add the boiled potato cubes and sauté for 1-2 minutes.",
+      "Add the sabudana-peanut mixture to the pan.",
+      "Stir gently and cook on low-medium heat for 5-7 minutes, stirring occasionally, until the sabudana turns translucent.",
+      "Turn off the heat. Add the lemon juice and mix well.",
+      "Garnish with chopped cilantro and serve hot."
+    ],
+    "Cuisine": "Maharashtrian / Fasting Food"
+  },
+  {
+    "RecipeName": "Tomato Rice",
+    "Ingredients": [
+      "1.5 cups Basmati rice, soaked 30 mins",
+      "4 large ripe tomatoes, pureed",
+      "1 large onion, thinly sliced",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp mustard seeds",
+      "1 sprig curry leaves",
+      "Whole spices: 1 bay leaf, 1-inch cinnamon, 2 cloves, 2 cardamoms",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pressure cooker or pot.",
+      "Add mustard seeds, cumin seeds, curry leaves, and all the whole spices. Sauté for 30 seconds.",
+      "Add the sliced onion and sauté until translucent.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add the tomato puree, turmeric, chili powder, and salt. Cook for 5-7 minutes, until the oil separates.",
+      "Add the soaked and drained rice. Sauté gently for 1-2 minutes.",
+      "Add 2.5 cups of water. Stir well and bring to a boil.",
+      "If in a pot, cover and simmer on low heat for 15-18 minutes. If in a pressure cooker, cook for 2 whistles.",
+      "Let it rest for 10 minutes. Stir in the garam masala and fluff with a fork.",
+      "Serve hot with raita or papad."
+    ],
+    "Cuisine": "South Indian"
+  },
+  {
+    "RecipeName": "Rava Kesari (Kesari Bath)",
+    "Ingredients": [
+      "1 cup semolina (rava/sooji), fine",
+      "1 cup sugar",
+      "1/2 cup ghee",
+      "2 cups water",
+      "A generous pinch of saffron strands (soaked in 1 tbsp warm milk)",
+      "1/4 tsp cardamom powder",
+      "2 tbsp cashews",
+      "1 tbsp raisins"
+    ],
+    "Steps": [
+      "Heat 1 tbsp of ghee in a pan. Fry the cashews until golden, then add raisins and fry until they plump up. Remove and set aside.",
+      "In the same pan, add the remaining ghee. Add the rava and roast on low heat for 7-10 minutes, until it's aromatic and lightly golden. Remove and set aside.",
+      "In the same pan, add 2 cups of water and the saffron milk. Bring to a rolling boil.",
+      "Reduce the heat to low. Slowly pour in the roasted rava, stirring continuously to prevent lumps.",
+      "Keep stirring until the rava absorbs all the water and is cooked.",
+      "Add the sugar. The mixture will become liquidy again. Keep stirring.",
+      "Continue to cook, stirring, until the mixture thickens and starts to leave the sides of the pan.",
+      "Add the cardamom powder, fried cashews, and raisins. Mix well.",
+      "Serve hot or at room temperature."
+    ],
+    "Cuisine": "South Indian / Dessert"
+  },
+  {
+    "RecipeName": "Carrot Poriyal",
+    "Ingredients": [
+      "2 large carrots, finely chopped or grated",
+      "1/2 cup grated fresh coconut",
+      "Tempering: 1 tbsp coconut oil, 1 tsp mustard seeds, 1 tsp urad dal, 1 dried red chili (broken), 1 sprig curry leaves, 1/4 tsp asafoetida (hing)",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat coconut oil in a pan. Add all the tempering ingredients.",
+      "Sauté until the mustard seeds pop and the urad dal turns golden brown.",
+      "Add the finely chopped carrots and salt.",
+      "Sprinkle 2-3 tbsp of water. Cover the pan and cook on low heat for 5-7 minutes, or until the carrots are tender.",
+      "Remove the lid, add the grated fresh coconut.",
+      "Stir and cook for 1-2 minutes until the coconut is heated through.",
+      "Serve hot as a side dish with rice and sambar/rasam."
+    ],
+    "Cuisine": "South Indian (Tamil Nadu)"
+  },
+  {
+    "RecipeName": "Beetroot Poriyal",
+    "Ingredients": [
+      "2 medium beetroots, peeled and finely chopped",
+      "1/2 cup grated fresh coconut",
+      "Tempering: 1 tbsp coconut oil, 1 tsp mustard seeds, 1 tsp urad dal, 1 dried red chili, 1 sprig curry leaves",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat coconut oil in a pan. Add mustard seeds, urad dal, red chili, and curry leaves.",
+      "Sauté until the dal turns golden.",
+      "Add the finely chopped beetroot and salt.",
+      "Sprinkle 1/4 cup of water. Cover and cook on low heat for 10-12 minutes, or until the beetroot is tender.",
+      "Remove the lid and cook for 2-3 minutes if there is any excess water.",
+      "Add the grated fresh coconut. Stir and cook for 1-2 minutes.",
+      "Serve hot as a side dish."
+    ],
+    "Cuisine": "South Indian (Tamil Nadu)"
+  },
+  {
+    "RecipeName": "Cabbage Poriyal",
+    "Ingredients": [
+      "1/2 medium cabbage, finely shredded",
+      "1/2 cup grated fresh coconut",
+      "Tempering: 1 tbsp coconut oil, 1 tsp mustard seeds, 1 tsp urad dal, 1 tsp chana dal, 2 green chilies (slit), 1 sprig curry leaves",
+      "1/4 tsp turmeric powder",
+      "Salt to taste"
+    ],
+    "Steps": [
+      "Heat coconut oil in a pan. Add mustard seeds, urad dal, and chana dal. Sauté until golden.",
+      "Add the green chilies and curry leaves.",
+      "Add the shredded cabbage, turmeric, and salt.",
+      "Stir-fry on medium-high heat for 3-4 minutes. Do not add water.",
+      "Cover and cook on low heat for 5-7 minutes. The cabbage should be tender yet crunchy, not mushy.",
+      "Remove the lid, add the grated fresh coconut.",
+      "Stir and cook for 1-2 minutes. Serve hot."
+    ],
+    "Cuisine": "South Indian (Tamil Nadu)"
+  },
+  {
+    "RecipeName": "Rasam",
+    "Ingredients": [
+      "1 large tomato, mashed",
+      "1 tbsp tamarind pulp, soaked in 1 cup warm water",
+      "1 tbsp toor dal, cooked and mashed (optional)",
+      "1 tbsp rasam powder",
+      "1/2 tsp turmeric powder",
+      "Salt to taste",
+      "Tempering: 1 tsp ghee, 1 tsp mustard seeds, 1 tsp cumin seeds, 1/4 tsp asafoetida, 2 dried red chilies, 1 sprig curry leaves",
+      "1/4 cup chopped cilantro"
+    ],
+    "Steps": [
+      "In a pot, combine the mashed tomato, tamarind water, cooked toor dal (if using), rasam powder, turmeric, salt, and 2 cups of water.",
+      "Bring the mixture to a boil.",
+      "Let it simmer on low heat for 10-15 minutes, until it becomes frothy on top. Do not over-boil.",
+      "For tempering: Heat ghee in a small pan. Add all tempering ingredients.",
+      "Sauté until the seeds pop and curry leaves are crisp.",
+      "Pour the hot tempering over the rasam.",
+      "Stir in the chopped cilantro and turn off the heat.",
+      "Cover and let it rest for 5 minutes for the flavors to blend.",
+      "Serve hot as a soup or with rice."
+    ],
+    "Cuisine": "South Indian"
+  }
+]
