@@ -27,7 +27,7 @@ A Streamlit-based web application that recommends Indian recipes based on user i
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/pragnyareddy00/Recipe-Recommendation-Chatbot-using-NLP.git
    cd recipe-recommendation-bot
    ```
 
