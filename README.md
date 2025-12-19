@@ -2,7 +2,7 @@
 **✅ Deployed App:** [Click here to try it out! 🍛](https://pragnyareddy00-recipe-recommendation-chatbot-using-n-app-gdfflu.streamlit.app/)
 
 A Streamlit-based web application that recommends Indian recipes based on user input using Natural Language Processing (NLP) techniques. The app leverages TF-IDF vectorization and cosine similarity to find the best recipe matches from a dataset of Indian dishes.
-![Indian Recipe Recommendation Bot Screenshot](Screenshot%20(515).png)
+![Indian Recipe Recommendation Bot](Output-image.png)
 
 ## Features
 
