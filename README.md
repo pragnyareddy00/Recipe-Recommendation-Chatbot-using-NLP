@@ -100,11 +100,11 @@ recipe-recommendation-bot/
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
 - Inspired by traditional Indian cuisine and NLP applications.
 - Thanks to the open-source community for libraries like Streamlit and Scikit-learn.
+
+## Connect me :
+Email : gpragnyareddy1594@gmail.com
